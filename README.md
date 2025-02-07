@@ -34,21 +34,21 @@ Date|Problem Name|Problem ID|Difficulty|
 |04/02/25|[Sticky Keys](https://open.kattis.com/problems/stickykeys)|stickykeys|1.5|
 |04/02/25|[Symmetric Order](https://open.kattis.com/problems/symmetricorder)|symmetricorder|1.7|
 |04/02/25|[The N Days of Christmas](https://open.kattis.com/problems/thendaysofchristmas)|ndaysofchristmas|1.5|
-|04/02/25|[Title Cost](https://open.kattis.com/problems/titlecost)|titlecost.cpp|
+|04/02/25|[Title Cost](https://open.kattis.com/problems/titlecost)|titlecost.cpp|1.5|
 |04/02/25|[Tower Construction](https://open.kattis.com/problems/tornbygge)|towerconstruction|1.6|
 |04/02/25|[Training](https://open.kattis.com/problems/training)|training|1.5|
 |04/02/25|[Zoom](https://open.kattis.com/problems/zoom)|zoom|1.5|
-||| **Rating** | **148.6** |
+|||| **148.6** |
 |05/02/25|[ABC](https://open.kattis.com/problems/abc)|abc.cpp|1.8|
 |05/02/25|[Flow Layout](https://open.kattis.com/problems/flowlayout)|flowlayout|1.8|
 |05/02/25|[The Stock Market](https://open.kattis.com/problems/borsen)|thestockmarket|3.2|
 |05/02/25|[Video Speedup](https://open.kattis.com/problems/videospeedup)|videospeedup|1.8|
-||| **Rating** | **156.2** |
+|||| **156.2** |
 |06/02/25|[Above Average](https://open.kattis.com/problems/aboveaverage)|aboveaverage|2.0|
 |06/02/25|[Boss Battle](https://open.kattis.com/problems/bossbattle)|bossbattle|2.0|
 |06/02/25|[Building Highways](https://open.kattis.com/problems/buildinghighways)|buildinghighways|2.1|
 |06/02/25|[Coloring Socks](https://open.kattis.com/problems/color)|coloringsocks|2.0|
 |06/02/25|[Misa](https://open.kattis.com/problems/misa)|misa|2.0|
 |06/02/25|[Prerequisites?](https://open.kattis.com/problems/prerequisites)|prerequisites|2.0|
-||| **Rating** | **171.8** |
+|||| **171.8** |
 
