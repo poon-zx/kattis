@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 176.0
+## Current Rating: 182.3
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -51,4 +51,11 @@ Date|Problem Name|Problem ID|Difficulty|
 |06/02/25|[Misa](https://open.kattis.com/problems/misa)|misa|2.0|
 |06/02/25|[Prerequisites?](https://open.kattis.com/problems/prerequisites)|prerequisites|2.0|
 |||| **171.8** |
+|07/02/25|[Going to School](https://open.kattis.com/problems/skolvagen)|goingtoschool|2.1|
+|07/02/25|[Messy Lists](https://open.kattis.com/problems/stokigalistor)|messylists|2.1|
+|07/02/25|[Multiplication](https://open.kattis.com/problems/multiplications)|multiplication|2.1|
+|07/02/25|[Shopaholic](https://open.kattis.com/problems/shopaholic)|shopaholic|2.1|
+|07/02/25|[Yoda](https://open.kattis.com/problems/yoda)|yoda|2.0|
+|||| **182.3** |
+
 
