@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 182.3
+## Current Rating: 204.3
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -57,5 +57,17 @@ Date|Problem Name|Problem ID|Difficulty|
 |07/02/25|[Shopaholic](https://open.kattis.com/problems/shopaholic)|shopaholic|2.1|
 |07/02/25|[Yoda](https://open.kattis.com/problems/yoda)|yoda|2.0|
 |||| **182.3** |
+|08/02/25|[Army Strength (Hard)](https://open.kattis.com/problems/armystrengthhard)|armystrengthhard|2.1|
+|08/02/25|[Beehives](https://open.kattis.com/problems/beehives)|beehives|2.1|
+|08/02/25|[Black Friday](https://open.kattis.com/problems/blackfriday)|blackfriday|2.1|
+|08/02/25|[Closing the Loop](https://open.kattis.com/problems/closingtheloop)|closingtheloop|2.1|
+|08/02/25|[Flow Shop](https://open.kattis.com/problems/flowshop)|flowshop|2.1|
+|08/02/25|[Happy Happy Prime Prime](https://open.kattis.com/problems/happyprime)|happyprime|2.1|
+|08/02/25|[Jumbled Compass](https://open.kattis.com/problems/compass)|compass|2.1|
+|08/02/25|[Quite a Problem](https://open.kattis.com/problems/quiteaproblem)|quiteaproblem|2.1|
+|08/02/25|[Perket](https://open.kattis.com/problems/perket)|perket|2.1|
+|08/02/25|[Soylent](https://open.kattis.com/problems/soylent)|soylent|2.1|
+|08/02/25|[Welcome to Code Jam (Easy)](https://open.kattis.com/problems/welcomeeasy)|welcomeeasy|2.1|
+|||| **204.3** |
 
 
