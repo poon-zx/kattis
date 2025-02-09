@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 204.3
+## Current Rating: 208.1
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -69,5 +69,8 @@ Date|Problem Name|Problem ID|Difficulty|
 |08/02/25|[Soylent](https://open.kattis.com/problems/soylent)|soylent|2.1|
 |08/02/25|[Welcome to Code Jam (Easy)](https://open.kattis.com/problems/welcomeeasy)|welcomeeasy|2.1|
 |||| **204.3** |
+|09/02/25|[Completing the Square](https://open.kattis.com/problems/completingthesquare)|completingthesquare|2.1|
+|09/02/25|[Elevator Trouble](https://open.kattis.com/problems/elevatortrouble)|elevatortrouble|2.1|
+|||| **208.1** |
 
 
