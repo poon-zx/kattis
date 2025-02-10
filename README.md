@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 208.1
+## Current Rating: 219.1
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -72,5 +72,13 @@ Date|Problem Name|Problem ID|Difficulty|
 |09/02/25|[Completing the Square](https://open.kattis.com/problems/completingthesquare)|completingthesquare|2.1|
 |09/02/25|[Elevator Trouble](https://open.kattis.com/problems/elevatortrouble)|elevatortrouble|2.1|
 |||| **208.1** |
+|10/02/25|[Canadians, eh?](https://open.kattis.com/problems/canadianseh)|canadianseh|1.6|
+|10/02/25|[Champernowne Verification](https://open.kattis.com/problems/champernowneverification)|champernowneverification|1.6|
+|10/02/25|[Final Exam](https://open.kattis.com/problems/finalexam2)|finalexam2|1.6|
+|10/02/25|[Quick Estimates](https://open.kattis.com/problems/quickestimate)|quickestimate|1.6|
+|10/02/25|[Server](https://open.kattis.com/problems/server)|server|1.6|
+|10/02/25|[Stacking Cups](https://open.kattis.com/problems/cups)|cups|1.6|
+|10/02/25|[Triple Sevens](https://open.kattis.com/problems/triplesevens)|triplesevens|1.6|
+|||| **219.1** |
 
 
