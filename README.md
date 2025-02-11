@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 219.1
+## Current Rating: 227.7
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -80,5 +80,11 @@ Date|Problem Name|Problem ID|Difficulty|
 |10/02/25|[Stacking Cups](https://open.kattis.com/problems/cups)|cups|1.6|
 |10/02/25|[Triple Sevens](https://open.kattis.com/problems/triplesevens)|triplesevens|1.6|
 |||| **219.1** |
+|11/02/25|[Bus](https://open.kattis.com/problems/bus)|bus|1.6|
+|11/02/25|[Herb Mixing](https://open.kattis.com/problems/herbmixing)|herbmixing|1.6|
+|11/02/25|[Pizza Crust](https://open.kattis.com/problems/pizza2)|pizza2|1.6|
+|11/02/25|[Quick Brown Fox](https://open.kattis.com/problems/quickbrownfox)|quickbrownfox|1.7|
+|11/02/25|[Snowfall](https://open.kattis.com/problems/snowfall)|snowfall|1.6|
+|||| **227.7** |
 
 
