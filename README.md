@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 227.7
+## Current Rating: 238.9
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -86,5 +86,11 @@ Date|Problem Name|Problem ID|Difficulty|
 |11/02/25|[Quick Brown Fox](https://open.kattis.com/problems/quickbrownfox)|quickbrownfox|1.7|
 |11/02/25|[Snowfall](https://open.kattis.com/problems/snowfall)|snowfall|1.6|
 |||| **227.7** |
+|12/02/25|[Anti-Palindrome](https://open.kattis.com/problems/antipalindrome)|antipalindrome|2.1|
+|12/02/25|[Midi](https://open.kattis.com/problems/midi)|midi|2.2|
+|12/02/25|[Mork](https://open.kattis.com/problems/mork)|mork|2.2|
+|12/02/25|[Peningar](https://open.kattis.com/problems/peningar)|peningar|2.2|
+|12/02/25|[Tag](https://open.kattis.com/problems/jage)|jage|1.6|
+|||| **238.9** |
 
 
