@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 238.9
+## Current Rating: 250.4
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -92,5 +92,11 @@ Date|Problem Name|Problem ID|Difficulty|
 |12/02/25|[Peningar](https://open.kattis.com/problems/peningar)|peningar|2.2|
 |12/02/25|[Tag](https://open.kattis.com/problems/jage)|jage|1.6|
 |||| **238.9** |
+|13/02/25|[Ants](https://open.kattis.com/problems/ants)|ants|2.2|
+|13/02/25|[Bus Numbers](https://open.kattis.com/problems/busnumbers)|busnumbers|2.2|
+|13/02/25|[Illuminated City](https://open.kattis.com/problems/stadiljus)|stadiljus|2.2|
+|13/02/25|[Pebble Solitaire](https://open.kattis.com/problems/pebblesolitaire)|pebblesolitaire|2.2|
+|13/02/25|[The Dragon of Loo Water](https://open.kattis.com/problems/loowater)|loowater|2.2|
+|||| **250.4** |
 
 
