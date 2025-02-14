@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 250.4
+## Current Rating: 258.7
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -98,5 +98,11 @@ Date|Problem Name|Problem ID|Difficulty|
 |13/02/25|[Pebble Solitaire](https://open.kattis.com/problems/pebblesolitaire)|pebblesolitaire|2.2|
 |13/02/25|[The Dragon of Loo Water](https://open.kattis.com/problems/loowater)|loowater|2.2|
 |||| **250.4** |
+|14/02/25|[Course Scheduling](https://open.kattis.com/problems/coursescheduling)|coursescheduling|1.7|
+|14/02/25|[Hailstone Sequences](https://open.kattis.com/problems/hailstone2)|hailstone2|1.7|
+|14/02/25|[Input Scandal](https://open.kattis.com/problems/inputscandal)|inputscandal|1.8|
+|14/02/25|[Lost Lineup](https://open.kattis.com/problems/lostlineup)|lostlineup|1.7|
+|14/02/25|[Triple Texting](https://open.kattis.com/problems/tripletexting)|tripletexting|1.8|
+|||| **258.7** |
 
 
