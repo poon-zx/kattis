@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 258.7
+## Current Rating: 290.9
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -104,5 +104,21 @@ Date|Problem Name|Problem ID|Difficulty|
 |14/02/25|[Lost Lineup](https://open.kattis.com/problems/lostlineup)|lostlineup|1.7|
 |14/02/25|[Triple Texting](https://open.kattis.com/problems/tripletexting)|tripletexting|1.8|
 |||| **258.7** |
+|15/02/25|[Another Brick in the Wall](https://open.kattis.com/problems/anotherbrick)|anotherbrick|2.3|
+|15/02/25|[Mars Window](https://open.kattis.com/problems/marswindow)|marswindow|2.3|
+|15/02/25|[Nine Knights](https://open.kattis.com/problems/nineknights)|nineknights|2.3|
+|15/02/25|[Pairing Socks](https://open.kattis.com/problems/pairingsocks)|pairingsocks|2.3|
+|15/02/25|[Safe Houses](https://open.kattis.com/problems/safehouses)|safehouses|2.3|
+|15/02/25|[Time Travelling Temperatures](https://open.kattis.com/problems/temperature)|temperature|2.3|
+|15/02/25|[ToLower](https://open.kattis.com/problems/tolower)|tolower|2.3|
+|||| **275.1** |
+|16/02/25|[Awkward Party](https://open.kattis.com/problems/awkwardparty)|awkwardparty|2.3|
+|16/02/25|[Battle Simulation](https://open.kattis.com/problems/battlesimulation)|battlesimulation|2.4|
+|16/02/25|[Bits](https://open.kattis.com/problems/bits)|bits|2.5|
+|16/02/25|[Climbing Worm](https://open.kattis.com/problems/climbingworm)|climbingworm|2.3|
+|16/02/25|[Laptop Stickers](https://open.kattis.com/problems/laptopstickers)|laptopstickers|2.3|
+|16/02/25|[Parket](https://open.kattis.com/problems/parket)|parket|2.3|
+|16/02/25|[Social Running](https://open.kattis.com/problems/socialrunning)|socialrunning|2.3|
+|||| **290.9** |
 
 
