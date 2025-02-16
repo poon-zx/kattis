@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 275.1
+## Current Rating: 290.9
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -112,5 +112,13 @@ Date|Problem Name|Problem ID|Difficulty|
 |15/02/25|[Time Travelling Temperatures](https://open.kattis.com/problems/temperature)|temperature|2.3|
 |15/02/25|[ToLower](https://open.kattis.com/problems/tolower)|tolower|2.3|
 |||| **275.1** |
+|16/02/25|[Awkward Party](https://open.kattis.com/problems/awkwardparty)|awkwardparty|2.3|
+|16/02/25|[Battle Simulation](https://open.kattis.com/problems/battlesimulation)|battlesimulation|2.4|
+|16/02/25|[Bits](https://open.kattis.com/problems/bits)|bits|2.5|
+|16/02/25|[Climbing Worm](https://open.kattis.com/problems/climbingworm)|climbingworm|2.3|
+|16/02/25|[Laptop Stickers](https://open.kattis.com/problems/laptopstickers)|laptopstickers|2.3|
+|16/02/25|[Parket](https://open.kattis.com/problems/parket)|parket|2.3|
+|16/02/25|[Social Running](https://open.kattis.com/problems/socialrunning)|socialrunning|2.3|
+|||| **290.9** |
 
 
