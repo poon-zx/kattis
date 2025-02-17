@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 290.9
+## Current Rating: 301.2
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -120,5 +120,10 @@ Date|Problem Name|Problem ID|Difficulty|
 |16/02/25|[Parket](https://open.kattis.com/problems/parket)|parket|2.3|
 |16/02/25|[Social Running](https://open.kattis.com/problems/socialrunning)|socialrunning|2.3|
 |||| **290.9** |
+|17/02/25|[Flip Five](https://open.kattis.com/problems/flipfive)|flipfive|2.5|
+|17/02/25|[Island Hopping](https://open.kattis.com/problems/islandhopping)|islandhopping|2.5|
+|17/02/25|[Troll Hunt](https://open.kattis.com/problems/trollhunt)|trollhunt|2.5|
+|17/02/25|[Verify This, Your Majesty](https://open.kattis.com/problems/queens)|queens|2.5|
+|||| **301.2** |
 
 
