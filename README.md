@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 301.2
+## Current Rating: 310.5
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -125,5 +125,10 @@ Date|Problem Name|Problem ID|Difficulty|
 |17/02/25|[Troll Hunt](https://open.kattis.com/problems/trollhunt)|trollhunt|2.5|
 |17/02/25|[Verify This, Your Majesty](https://open.kattis.com/problems/queens)|queens|2.5|
 |||| **301.2** |
+|18/02/25|[Another Candies](https://open.kattis.com/problems/anothercandies)|anothercandies|2.5|
+|18/02/25|[Best Compression Ever](https://open.kattis.com/problems/bestcompression)|islandhopping|2.5|
+|18/02/25|[Plotting Polynomials](https://open.kattis.com/problems/plot)|plot|2.5|
+|18/02/25|[Train Passengers](https://open.kattis.com/problems/trainpassengers)|trainpassengers|2.5|
+|||| **310.5** |
 
 
