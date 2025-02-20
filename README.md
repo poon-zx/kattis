@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 318.8
+## Current Rating: 331.3
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -136,4 +136,10 @@ Date|Problem Name|Problem ID|Difficulty|
 |19/02/25|[Tok Tik](https://open.kattis.com/problems/toktik)|toktik|1.6|
 |19/02/25|[Uppröðun](https://open.kattis.com/problems/upprodun)|upprodun|1.6|
 |||| **318.8** |
+|20/02/25|[Association for Computing Machinery](https://open.kattis.com/problems/acm2)|acm2|2.5|
+|20/02/25|[Calculating Dart Scores](https://open.kattis.com/problems/calculatingdartscores)|calculatingdartscores|2.5|
+|20/02/25|[Not Amused](https://open.kattis.com/problems/notamused)|notamused|2.5|
+|20/02/25|[Prime Reduction](https://open.kattis.com/problems/primereduction)|primereduction|2.5|
+|20/02/25|[Super Computer](https://open.kattis.com/problems/supercomputer)|supercomputer|2.5|
+|||| **331.3** |
 
