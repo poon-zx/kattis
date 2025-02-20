@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 310.5
+## Current Rating: 318.8
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -130,5 +130,10 @@ Date|Problem Name|Problem ID|Difficulty|
 |18/02/25|[Plotting Polynomials](https://open.kattis.com/problems/plot)|plot|2.5|
 |18/02/25|[Train Passengers](https://open.kattis.com/problems/trainpassengers)|trainpassengers|2.5|
 |||| **310.5** |
-
+|19/02/25|[Birthday Memorization](https://open.kattis.com/problems/fodelsedagsmemorisering)|fodelsedagsmemorisering|1.6|
+|19/02/25|[Hitastig](https://open.kattis.com/problems/hitastig)|hitastig|1.6|
+|19/02/25|[Liðaskipting](https://open.kattis.com/problems/lidaskipting)|lidaskipting|1.6|
+|19/02/25|[Tok Tik](https://open.kattis.com/problems/toktik)|toktik|1.6|
+|19/02/25|[Uppröðun](https://open.kattis.com/problems/upprodun)|upprodun|1.6|
+|||| **318.8** |
 
