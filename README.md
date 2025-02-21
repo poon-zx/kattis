@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 331.3
+## Current Rating: 341.3
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -142,4 +142,10 @@ Date|Problem Name|Problem ID|Difficulty|
 |20/02/25|[Prime Reduction](https://open.kattis.com/problems/primereduction)|primereduction|2.5|
 |20/02/25|[Super Computer](https://open.kattis.com/problems/supercomputer)|supercomputer|2.5|
 |||| **331.3** |
+|21/02/25|[Minimum Scalar Product](https://open.kattis.com/problems/minimumscalar)|minimumscalar|1.9|
+|21/02/25|[Parking](https://open.kattis.com/problems/parking)|parking|1.9|
+|21/02/25|[Peg](https://open.kattis.com/problems/peg)|peg|1.9|
+|21/02/25|[Statistics](https://open.kattis.com/problems/statistics)|statistics|1.9|
+|21/02/25|[Tri](https://open.kattis.com/problems/tri)|tri|1.9|
+|||| **341.3** |
 
