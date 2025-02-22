@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 341.3
+## Current Rating: 353.4
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -148,4 +148,10 @@ Date|Problem Name|Problem ID|Difficulty|
 |21/02/25|[Statistics](https://open.kattis.com/problems/statistics)|statistics|1.9|
 |21/02/25|[Tri](https://open.kattis.com/problems/tri)|tri|1.9|
 |||| **341.3** |
+|22/02/25|[Bið, endalaus bið](https://open.kattis.com/problems/bidendalausbid)|bidendalausbid|2.4|
+|22/02/25|[Bílskúrar](https://open.kattis.com/problems/bilskurar)|bilskurar|2.4|
+|22/02/25|[Ding Dong Ditch](https://open.kattis.com/problems/dingdongditch)|dingdongditch|2.4|
+|22/02/25|[Gangur](https://open.kattis.com/problems/gangur)|gangur|2.4|
+|22/02/25|[Úllen Dúllen Doff 2](https://open.kattis.com/problems/ullendullendoff2)|ullendullendoff2|2.4|
+|||| **353.4** |
 
