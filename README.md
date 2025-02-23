@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 353.4
+## Current Rating: 366.8
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -154,4 +154,11 @@ Date|Problem Name|Problem ID|Difficulty|
 |22/02/25|[Gangur](https://open.kattis.com/problems/gangur)|gangur|2.4|
 |22/02/25|[Úllen Dúllen Doff 2](https://open.kattis.com/problems/ullendullendoff2)|ullendullendoff2|2.4|
 |||| **353.4** |
+|23/02/25|[A Towering Problem](https://open.kattis.com/problems/towering)|towering|2.7|
+|23/02/25|[Enlarging Hash Tables](https://open.kattis.com/problems/enlarginghashtables)|enlarginghashtables|2.7|
+|23/02/25|[Mravi](https://open.kattis.com/problems/mravi)|mravi|2.7|
+|23/02/25|[Room Painting](https://open.kattis.com/problems/roompainting)|roompainting|2.7|
+|22/02/25|[Smart Phone](https://open.kattis.com/problems/smartphone)|smartphone|2.7|
+|||| **366.8** |
+
 
