@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 366.8
+## Current Rating: 376.1
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -160,5 +160,14 @@ Date|Problem Name|Problem ID|Difficulty|
 |23/02/25|[Room Painting](https://open.kattis.com/problems/roompainting)|roompainting|2.7|
 |22/02/25|[Smart Phone](https://open.kattis.com/problems/smartphone)|smartphone|2.7|
 |||| **366.8** |
+|24/02/25|[ASCII kassi](https://open.kattis.com/problems/asciikassi)|asciikassi|1.5|
+|24/02/25|[Building Pyramids](https://open.kattis.com/problems/pyramids)|pyramids|1.5|
+|24/02/25|[Heimavinna](https://open.kattis.com/problems/heimavinna)|heimavinna|1.5|
+|24/02/25|[Message](https://open.kattis.com/problems/meddelande)|meddelande|1.5|
+|24/02/25|[Prjónamynstur](https://open.kattis.com/problems/prjonamynstur)|prjonamynstur|1.5|
+|24/02/25|[Stafur](https://open.kattis.com/problems/stafur)|stafur|1.5|
+|24/02/25|[Turn it Up!](https://open.kattis.com/problems/skruop)|skruop|1.5|
+|||| **376.1** |
+
 
 
