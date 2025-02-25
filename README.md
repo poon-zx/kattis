@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 376.1
+## Current Rating: 384.3
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -168,6 +168,12 @@ Date|Problem Name|Problem ID|Difficulty|
 |24/02/25|[Stafur](https://open.kattis.com/problems/stafur)|stafur|1.5|
 |24/02/25|[Turn it Up!](https://open.kattis.com/problems/skruop)|skruop|1.5|
 |||| **376.1** |
+|25/02/25|[Decimal deletion](https://open.kattis.com/problems/decimaldeletion)|decimaldeletion|1.2|
+|25/02/25|[Mastering Mastermind](https://open.kattis.com/problems/mastermind)|mastermind|2.2|
+|25/02/25|[Recount](https://open.kattis.com/problems/recount)|recount|2.2|
+|25/02/25|[Simon Says](https://open.kattis.com/problems/simon)|simon|2.2|
+|25/02/25|[Triangle Ornaments](https://open.kattis.com/problems/triangleornaments)|triangleornaments|2.2|
+|||| **384.3** |
 
 
 
