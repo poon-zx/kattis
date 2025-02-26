@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 384.3
+## Current Rating: 395.0
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -174,6 +174,10 @@ Date|Problem Name|Problem ID|Difficulty|
 |25/02/25|[Simon Says](https://open.kattis.com/problems/simon)|simon|2.2|
 |25/02/25|[Triangle Ornaments](https://open.kattis.com/problems/triangleornaments)|triangleornaments|2.2|
 |||| **384.3** |
-
+|26/02/25|[Guess the Number](https://open.kattis.com/problems/guess)|guess|2.7|
+|26/02/25|[Happy Telephones](https://open.kattis.com/problems/telephones)|telephones|2.8|
+|26/02/25|[Numbers on a Tree](https://open.kattis.com/problems/numbertree)|numbertree|2.8|
+|26/02/25|[Tight words](https://open.kattis.com/problems/tight)|tight|2.8|
+|||| **395.0** |
 
 
