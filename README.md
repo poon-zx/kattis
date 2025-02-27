@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 395.0
+## Current Rating: 405.6
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -179,5 +179,12 @@ Date|Problem Name|Problem ID|Difficulty|
 |26/02/25|[Numbers on a Tree](https://open.kattis.com/problems/numbertree)|numbertree|2.8|
 |26/02/25|[Tight words](https://open.kattis.com/problems/tight)|tight|2.8|
 |||| **395.0** |
+|27/02/25|[3d Printed Statues](https://open.kattis.com/problems/3dprinter)|3dprinter|2.7|
+|27/02/25|[Elevating the Prank](https://open.kattis.com/problems/elevatingtheprank)|elevatingtheprank|1.6|
+|27/02/25|[Game of Throwns](https://open.kattis.com/problems/throwns)|throwns|2.7|
+|27/02/25|[Leggja saman](https://open.kattis.com/problems/leggjasaman)|leggjasaman|1.1|
+|27/02/25|[Sith](https://open.kattis.com/problems/sith)|sith|1.6|
+|27/02/25|[Til hamingju](https://open.kattis.com/problems/tilhamingju)|tilhamingju|1.0|
+|||| **405.6** |
 
 
