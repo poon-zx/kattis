@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 405.6
+## Current Rating: 411.0
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -186,5 +186,8 @@ Date|Problem Name|Problem ID|Difficulty|
 |27/02/25|[Sith](https://open.kattis.com/problems/sith)|sith|1.6|
 |27/02/25|[Til hamingju](https://open.kattis.com/problems/tilhamingju)|tilhamingju|1.0|
 |||| **405.6** |
+|28/02/25|[Big Boxes](https://open.kattis.com/problems/bigboxes)|bigboxes|2.7|
+|28/02/25|[Pripreme](https://open.kattis.com/problems/pripreme)|pripreme|2.7|
+|||| **411.0** |
 
 
