@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 411.0
+## Current Rating: 425.6
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -189,5 +189,10 @@ Date|Problem Name|Problem ID|Difficulty|
 |28/02/25|[Big Boxes](https://open.kattis.com/problems/bigboxes)|bigboxes|2.7|
 |28/02/25|[Pripreme](https://open.kattis.com/problems/pripreme)|pripreme|2.7|
 |||| **411.0** |
-
+|01/03/25|[Fleytitala](https://open.kattis.com/problems/fleytitala)|fleytitala|3.0|
+|01/03/25|[Hermits](https://open.kattis.com/problems/hermits)|hermits|2.9|
+|01/03/25|[Is it Even?](https://open.kattis.com/problems/isiteven)|isiteven|2.9|
+|01/03/25|[Lamps](https://open.kattis.com/problems/lamps)|lamps|3.0|
+|01/03/25|[Running Race](https://open.kattis.com/problems/kaploeb)|kaploeb|3.0|
+|||| **425.6** |
 
