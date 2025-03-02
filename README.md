@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 425.6
+## Current Rating: 435.4
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -195,4 +195,9 @@ Date|Problem Name|Problem ID|Difficulty|
 |01/03/25|[Lamps](https://open.kattis.com/problems/lamps)|lamps|3.0|
 |01/03/25|[Running Race](https://open.kattis.com/problems/kaploeb)|kaploeb|3.0|
 |||| **425.6** |
+|02/03/25|[Brýr](https://open.kattis.com/problems/bryr)|bryr|2.5|
+|02/03/25|[Hopscotch 50](https://open.kattis.com/problems/hopscotch50)|hopscotch50|2.6|
+|02/03/25|[iBoard](https://open.kattis.com/problems/iboard)|iboard|2.3|
+|02/03/25|[Tic-Tac State](https://open.kattis.com/problems/tictacstate)|tictacstate|2.4|
+|||| **435.4** |
 
