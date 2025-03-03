@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 435.4
+## Current Rating: 445.1
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -200,4 +200,9 @@ Date|Problem Name|Problem ID|Difficulty|
 |02/03/25|[iBoard](https://open.kattis.com/problems/iboard)|iboard|2.3|
 |02/03/25|[Tic-Tac State](https://open.kattis.com/problems/tictacstate)|tictacstate|2.4|
 |||| **435.4** |
+|03/03/25|[Even Up Solitaire](https://open.kattis.com/problems/evenup)|evenup|2.4|
+|03/03/25|[Fend Off Titan](https://open.kattis.com/problems/fendofftitan)|fendofftitan|2.4|
+|03/03/25|[Kutevi](https://open.kattis.com/problems/kutevi)|kutevi|2.5|
+|03/03/25|[Töflur](https://open.kattis.com/problems/toflur)|toflur|2.4|
+|||| **445.1** |
 
