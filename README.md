@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 479.1
+## Current Rating: 483.5
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
