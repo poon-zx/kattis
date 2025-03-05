@@ -211,4 +211,8 @@ Date|Problem Name|Problem ID|Difficulty|
 |04/03/25|[The Uxuhul Voting System](https://open.kattis.com/problems/uxuhulvoting)|uxuhulvoting|3.0|
 |04/03/25|[Varied Amusements](https://open.kattis.com/problems/variedamusements)|variedamusements|3.0|
 |||| **479.1** |
+|05/03/25|[Dice Cup](https://open.kattis.com/problems/dicecup)|dicecup|1.7|
+|05/03/25|[Mjehuric](https://open.kattis.com/problems/mjehuric)|mjehuric|1.7|
+|05/03/25|[Sheba's Amoebas](https://open.kattis.com/problems/amoebas)|amoebas|1.7|
+|||| **483.5** |
 
