@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 445.1
+## Current Rating: 483.5
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -205,4 +205,14 @@ Date|Problem Name|Problem ID|Difficulty|
 |03/03/25|[Kutevi](https://open.kattis.com/problems/kutevi)|kutevi|2.5|
 |03/03/25|[Töflur](https://open.kattis.com/problems/toflur)|toflur|2.4|
 |||| **445.1** |
+|04/03/25|[Biased Standings](https://open.kattis.com/problems/standings)|standings|3.0|
+|04/03/25|[Primary Arithmetic](https://open.kattis.com/problems/primaryarithmetic)|primaryarithmetic|3.0|
+|04/03/25|[Toilet Seat](https://open.kattis.com/problems/toilet)|toilet|3.0|
+|04/03/25|[The Uxuhul Voting System](https://open.kattis.com/problems/uxuhulvoting)|uxuhulvoting|3.0|
+|04/03/25|[Varied Amusements](https://open.kattis.com/problems/variedamusements)|variedamusements|3.0|
+|||| **479.1** |
+|05/03/25|[Dice Cup](https://open.kattis.com/problems/dicecup)|dicecup|1.7|
+|05/03/25|[Mjehuric](https://open.kattis.com/problems/mjehuric)|mjehuric|1.7|
+|05/03/25|[Sheba's Amoebas](https://open.kattis.com/problems/amoebas)|amoebas|1.7|
+|||| **483.5** |
 
