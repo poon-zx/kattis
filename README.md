@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 483.5
+## Current Rating: 493.8
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -215,4 +215,9 @@ Date|Problem Name|Problem ID|Difficulty|
 |05/03/25|[Mjehuric](https://open.kattis.com/problems/mjehuric)|mjehuric|1.7|
 |05/03/25|[Sheba's Amoebas](https://open.kattis.com/problems/amoebas)|amoebas|1.7|
 |||| **483.5** |
+|06/03/25|[Cheating Students](https://open.kattis.com/problems/cheatingstudents)|cheatingstudents|2.9|
+|06/03/25|[A Rational Sequence 2](https://open.kattis.com/problems/rationalsequence2)|rationalsequence2|2.9|
+|06/03/25|[Three in a Row](https://open.kattis.com/problems/treirad)|treirad|1.6|
+|06/03/25|[Tree Insertion](https://open.kattis.com/problems/insert)|insert|2.9|
+|||| **493.8** |
 
