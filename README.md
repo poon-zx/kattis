@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 493.8
+## Current Rating: 508.2
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -220,4 +220,12 @@ Date|Problem Name|Problem ID|Difficulty|
 |06/03/25|[Three in a Row](https://open.kattis.com/problems/treirad)|treirad|1.6|
 |06/03/25|[Tree Insertion](https://open.kattis.com/problems/insert)|insert|2.9|
 |||| **493.8** |
+|07/03/25|[Average Character](https://open.kattis.com/problems/averagecharacter)|averagecharacter|2.0|
+|07/03/25|[Count Doubles](https://open.kattis.com/problems/countdoubles)|countdoubles|2.0|
+|07/03/25|[Hornrétt](https://open.kattis.com/problems/hornrett)|hornrett|2.1|
+|07/03/25|[Peach Powder Polygon](https://open.kattis.com/problems/peachpowderpolygon)|peachpowderpolygon|2.0|
+|07/03/25|[Scaling Recipe](https://open.kattis.com/problems/scalingrecipe)|scalingrecipe|2.0|
+|07/03/25|[Sequential Manufacturing](https://open.kattis.com/problems/sequentialmanufacturing)|sequentialmanufacturing|3.0|
+|07/03/25|[Shopping List](https://open.kattis.com/problems/shoppinglist)|shoppinglist|3.0|
+|||| **508.2** |
 
