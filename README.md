@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 508.2
+## Current Rating: 519.0
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -228,4 +228,10 @@ Date|Problem Name|Problem ID|Difficulty|
 |07/03/25|[Sequential Manufacturing](https://open.kattis.com/problems/sequentialmanufacturing)|sequentialmanufacturing|3.0|
 |07/03/25|[Shopping List](https://open.kattis.com/problems/shoppinglist)|shoppinglist|3.0|
 |||| **508.2** |
+|09/03/25|[Broken Swords](https://open.kattis.com/problems/brokenswords)|brokenswords|2.7|
+|09/03/25|[Colour Wars](https://open.kattis.com/problems/colourwars)|colourwars|2.7|
+|09/03/25|[Crne](https://open.kattis.com/problems/crne)|crne|2.7|
+|09/03/25|[Keyboardd](https://open.kattis.com/problems/keyboardd)|keyboardd|2.7|
+|09/03/25|[Metronome](https://open.kattis.com/problems/metronome)|metronome|1.2|
+|||| **519.0** |
 
