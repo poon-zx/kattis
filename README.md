@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 519.0
+## Current Rating: 529.5
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -234,4 +234,10 @@ Date|Problem Name|Problem ID|Difficulty|
 |09/03/25|[Keyboardd](https://open.kattis.com/problems/keyboardd)|keyboardd|2.7|
 |09/03/25|[Metronome](https://open.kattis.com/problems/metronome)|metronome|1.2|
 |||| **519.0** |
+|10/03/25|[Cinema Crowds](https://open.kattis.com/problems/cinema)|cinema|2.2|
+|10/03/25|[Graduation](https://open.kattis.com/problems/skolavslutningen)|skolavslutningen|2.3|
+|10/03/25|[Minimal Fibonacci Sums](https://open.kattis.com/problems/fibonaccisum)|fibonaccisum|2.2|
+|10/03/25|[Reduplication](https://open.kattis.com/problems/reduplikation)|reduplikation|1.2|
+|10/03/25|[Space Race](https://open.kattis.com/problems/spacerace)|spacerace|2.2|
+|||| **529.5** |
 
