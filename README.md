@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 529.5
+## Current Rating: 536.5
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -240,4 +240,9 @@ Date|Problem Name|Problem ID|Difficulty|
 |10/03/25|[Reduplication](https://open.kattis.com/problems/reduplikation)|reduplikation|1.2|
 |10/03/25|[Space Race](https://open.kattis.com/problems/spacerace)|spacerace|2.2|
 |||| **529.5** |
+|11/03/25|[Exam Redistribution](https://open.kattis.com/problems/redistribution)|redistribution|2.5|
+|11/03/25|[Proofs](https://open.kattis.com/problems/proofs)|proofs|2.5|
+|11/03/25|[Simple Factoring](https://open.kattis.com/problems/simplefactoring)|simplefactoring|2.5|
+|11/03/25|[Soundex](https://open.kattis.com/problems/soundex)|soundex|2.5|
+|||| **536.5** |
 
