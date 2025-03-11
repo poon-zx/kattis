@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 536.5
+## Current Rating: 539.0
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -244,5 +244,5 @@ Date|Problem Name|Problem ID|Difficulty|
 |11/03/25|[Proofs](https://open.kattis.com/problems/proofs)|proofs|2.5|
 |11/03/25|[Simple Factoring](https://open.kattis.com/problems/simplefactoring)|simplefactoring|2.5|
 |11/03/25|[Soundex](https://open.kattis.com/problems/soundex)|soundex|2.5|
-|||| **536.5** |
+|||| **539.0** |
 
