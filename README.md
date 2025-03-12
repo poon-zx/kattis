@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 539.0
+## Current Rating: 548.5
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -245,4 +245,9 @@ Date|Problem Name|Problem ID|Difficulty|
 |11/03/25|[Simple Factoring](https://open.kattis.com/problems/simplefactoring)|simplefactoring|2.5|
 |11/03/25|[Soundex](https://open.kattis.com/problems/soundex)|soundex|2.5|
 |||| **539.0** |
+|12/03/25|[Bottled-Up Feelings](https://open.kattis.com/problems/bottledup)|bottledup|2.6|
+|12/03/25|[Event Planning](https://open.kattis.com/problems/eventplanning)|eventplanning|2.6|
+|12/03/25|[Hardwood Species](https://open.kattis.com/problems/hardwoodspecies)|hardwoodspecies|2.6|
+|12/03/25|[Jazz It Up!](https://open.kattis.com/problems/jazzitup)|jazzitup|2.2|
+|||| **548.5** |
 
