@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 548.5
+## Current Rating: 559.0
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -250,4 +250,9 @@ Date|Problem Name|Problem ID|Difficulty|
 |12/03/25|[Hardwood Species](https://open.kattis.com/problems/hardwoodspecies)|hardwoodspecies|2.6|
 |12/03/25|[Jazz It Up!](https://open.kattis.com/problems/jazzitup)|jazzitup|2.2|
 |||| **548.5** |
+|13/03/25|[A Rank Problem](https://open.kattis.com/problems/rankproblem)|rankproblem|3.1|
+|13/03/25|[Conquest](https://open.kattis.com/problems/conquest)|conquest|3.1|
+|13/03/25|[Óvissa](https://open.kattis.com/problems/ovissa)|ovissa|1.1|
+|13/03/25|[Zebras and Ocelots](https://open.kattis.com/problems/zebrasocelots)|zebrasocelots|3.1|
+|||| **559.0** |
 
