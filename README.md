@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 559.0
+## Current Rating: 575.7
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -255,4 +255,11 @@ Date|Problem Name|Problem ID|Difficulty|
 |13/03/25|[Óvissa](https://open.kattis.com/problems/ovissa)|ovissa|1.1|
 |13/03/25|[Zebras and Ocelots](https://open.kattis.com/problems/zebrasocelots)|zebrasocelots|3.1|
 |||| **559.0** |
+|15/03/25|[Chopping Wood](https://open.kattis.com/problems/chopwood)|chopwood|3.2|
+|15/03/25|[Engineering English](https://open.kattis.com/problems/engineeringenglish)|engineeringenglish|2.7|
+|15/03/25|[Equal Sum (Easy)](https://open.kattis.com/problems/equalsumseasy)|equalsumseasy|2.7|
+|15/03/25|[Popcorn](https://open.kattis.com/problems/popkorn)|popkorn|3.2|
+|15/03/25|[Snapper Chain (Easy)](https://open.kattis.com/problems/snappereasy)|snappereasy|2.7|
+|15/03/25|[The Bus Card](https://open.kattis.com/problems/busskortet)|busskortet|3.2|
+|||| **575.7** |
 
