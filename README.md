@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 575.7
+## Current Rating: 588.2
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -262,4 +262,11 @@ Date|Problem Name|Problem ID|Difficulty|
 |15/03/25|[Snapper Chain (Easy)](https://open.kattis.com/problems/snappereasy)|snappereasy|2.7|
 |15/03/25|[The Bus Card](https://open.kattis.com/problems/busskortet)|busskortet|3.2|
 |||| **575.7** |
+|16/03/25|[BergMál](https://open.kattis.com/problems/bergmal)|chopwood|1.2|
+|16/03/25|[Framtíðar FIFA](https://open.kattis.com/problems/fifa)|engineeringenglish|1.2|
+|16/03/25|[Julmust](https://open.kattis.com/problems/julmust)|julmust|2.4|
+|16/03/25|[Last Minute](https://open.kattis.com/problems/lastminute)|lastminute|2.7|
+|16/03/25|[Noonerized Spumbers](https://open.kattis.com/problems/noonerizedspumbers)|noonerizedspumbers|2.7|
+|16/03/25|[Three Powers](https://open.kattis.com/problems/threepowers)|threepowers|2.4|
+|||| **588.2** |
 
