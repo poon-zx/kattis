@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 588.2
+## Current Rating: 597.0
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -269,4 +269,11 @@ Date|Problem Name|Problem ID|Difficulty|
 |16/03/25|[Noonerized Spumbers](https://open.kattis.com/problems/noonerizedspumbers)|noonerizedspumbers|2.7|
 |16/03/25|[Three Powers](https://open.kattis.com/problems/threepowers)|threepowers|2.4|
 |||| **588.2** |
+|17/03/25|[Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum)|conundrum|1.7|
+|17/03/25|[The Easiest Problem Is This One](https://open.kattis.com/problems/easiest)|easiest|1.6|
+|17/03/25|[Namsdag](https://open.kattis.com/problems/namnsdag)|namnsdag|1.6|
+|17/03/25|[Planting Trees](https://open.kattis.com/problems/plantingtrees)|plantingtrees|1.7|
+|17/03/25|[Prsteni](https://open.kattis.com/problems/prsteni)|prsteni|1.6|
+|17/03/25|[Skocimis](https://open.kattis.com/problems/skocimis)|skocimis|1.6|
+|||| **597.0** |
 
