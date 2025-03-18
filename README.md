@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 588.2
+## Current Rating: 607.5
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -269,4 +269,17 @@ Date|Problem Name|Problem ID|Difficulty|
 |16/03/25|[Noonerized Spumbers](https://open.kattis.com/problems/noonerizedspumbers)|noonerizedspumbers|2.7|
 |16/03/25|[Three Powers](https://open.kattis.com/problems/threepowers)|threepowers|2.4|
 |||| **588.2** |
+|17/03/25|[Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum)|conundrum|1.7|
+|17/03/25|[The Easiest Problem Is This One](https://open.kattis.com/problems/easiest)|easiest|1.6|
+|17/03/25|[Namsdag](https://open.kattis.com/problems/namnsdag)|namnsdag|1.6|
+|17/03/25|[Planting Trees](https://open.kattis.com/problems/plantingtrees)|plantingtrees|1.7|
+|17/03/25|[Prsteni](https://open.kattis.com/problems/prsteni)|prsteni|1.6|
+|17/03/25|[Skocimis](https://open.kattis.com/problems/skocimis)|skocimis|1.6|
+|||| **597.0** |
+|18/03/25|[Leiðangur](https://open.kattis.com/problems/leidangur)|leidangur|2.1|
+|18/03/25|[Mult!](https://open.kattis.com/problems/mult)|mult|2.0|
+|18/03/25|[Östgötska](https://open.kattis.com/problems/ostgotska)|ostgotska|2.0|
+|18/03/25|[Saving Princess Peach](https://open.kattis.com/problems/princesspeach)|princesspeach|2.0|
+|18/03/25|[Simone](https://open.kattis.com/problems/simone)|simone|2.0|
+|||| **607.5** |
 
