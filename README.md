@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 597.0
+## Current Rating: 607.5
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -276,4 +276,10 @@ Date|Problem Name|Problem ID|Difficulty|
 |17/03/25|[Prsteni](https://open.kattis.com/problems/prsteni)|prsteni|1.6|
 |17/03/25|[Skocimis](https://open.kattis.com/problems/skocimis)|skocimis|1.6|
 |||| **597.0** |
+|18/03/25|[Leiðangur](https://open.kattis.com/problems/leidangur)|leidangur|2.1|
+|18/03/25|[Mult!](https://open.kattis.com/problems/mult)|mult|2.0|
+|18/03/25|[Östgötska](https://open.kattis.com/problems/ostgotska)|ostgotska|2.0|
+|18/03/25|[Saving Princess Peach](https://open.kattis.com/problems/princesspeach)|princesspeach|2.0|
+|18/03/25|[Simone](https://open.kattis.com/problems/simone)|simone|2.0|
+|||| **607.5** |
 
