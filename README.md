@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 607.5
+## Current Rating: 619.7
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -282,4 +282,9 @@ Date|Problem Name|Problem ID|Difficulty|
 |18/03/25|[Saving Princess Peach](https://open.kattis.com/problems/princesspeach)|princesspeach|2.0|
 |18/03/25|[Simone](https://open.kattis.com/problems/simone)|simone|2.0|
 |||| **607.5** |
-
+|19/03/25|[Contest Struggles](https://open.kattis.com/problems/conteststruggles)|conteststruggles|2.2|
+|19/03/25|[Field Trip](https://open.kattis.com/problems/fieldtrip)|fieldtrip|2.2|
+|19/03/25|[Gandalf's Spell](https://open.kattis.com/problems/gandalfsspell)|gandalfsspell|2.2|
+|19/03/25|[Powers of 2 (Easy)](https://open.kattis.com/problems/powersof2easy)|powersof2easy|2.2|
+|19/03/25|[Social Distancing](https://open.kattis.com/problems/socialdistancing2)|socialdistancing2|2.2|
+|||| **619.7** |
