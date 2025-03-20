@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 619.7
+## Current Rating: 632.6
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -288,3 +288,7 @@ Date|Problem Name|Problem ID|Difficulty|
 |19/03/25|[Powers of 2 (Easy)](https://open.kattis.com/problems/powersof2easy)|powersof2easy|2.2|
 |19/03/25|[Social Distancing](https://open.kattis.com/problems/socialdistancing2)|socialdistancing2|2.2|
 |||| **619.7** |
+|20/03/25|[Fair Warning](https://open.kattis.com/problems/fairwarning)|fairwarning|3.3|
+|20/03/25|[Primality](https://open.kattis.com/problems/primality)|primality|5.3|
+|20/03/25|[Union-Find](https://open.kattis.com/problems/unionfind)|unionfind|3.3|
+|||| **632.6** |
