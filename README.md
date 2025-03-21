@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 632.6
+## Current Rating: 642.6
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -292,3 +292,8 @@ Date|Problem Name|Problem ID|Difficulty|
 |20/03/25|[Primality](https://open.kattis.com/problems/primality)|primality|5.3|
 |20/03/25|[Union-Find](https://open.kattis.com/problems/unionfind)|unionfind|3.3|
 |||| **632.6** |
+|21/03/25|[Guessing Game](https://open.kattis.com/problems/guessinggame)|guessinggame|3.0|
+|21/03/25|[Radio Commercials](https://open.kattis.com/problems/commercials)|commercials|2.8|
+|21/03/25|[Sretan](https://open.kattis.com/problems/sretan)|sretan|3.0|
+|21/03/25|[Viðsnúningur](https://open.kattis.com/problems/vidsnuningur)|vidsnuningur|1.2|
+|||| **642.6** |
