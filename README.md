@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 652.1
+## Current Rating: 662.4
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -303,3 +303,9 @@ Date|Problem Name|Problem ID|Difficulty|
 |22/03/25|[Tölvunarfræðingar telja](https://open.kattis.com/problems/tolvunarfraedingartelja)|tolvunarfraedingartelja|1.2|
 |22/03/25|[The Weight of Words](https://open.kattis.com/problems/weightofwords)|weightofwords|2.3|
 |||| **652.1** |
+|23/03/25|[Á leið í bíó](https://open.kattis.com/problems/aleidibio)|aleidibio|1.1|
+|23/03/25|[Cyanide Rivers](https://open.kattis.com/problems/cyaniderivers)|cyaniderivers|2.3|
+|23/03/25|[Disc District](https://open.kattis.com/problems/discdistrict)|discdistrict|2.3|
+|23/03/25|[Head Guard](https://open.kattis.com/problems/headguard)|headguard|2.3|
+|23/03/25|[Speedrun](https://open.kattis.com/problems/speedrun)|speedrun|2.3|
+|||| **662.4** |
