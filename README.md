@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 642.6
+## Current Rating: 652.1
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -297,3 +297,9 @@ Date|Problem Name|Problem ID|Difficulty|
 |21/03/25|[Sretan](https://open.kattis.com/problems/sretan)|sretan|3.0|
 |21/03/25|[Viðsnúningur](https://open.kattis.com/problems/vidsnuningur)|vidsnuningur|1.2|
 |||| **642.6** |
+|22/03/25|[Buka](https://open.kattis.com/problems/buka)|buka|2.3|
+|22/03/25|[Costume Contest](https://open.kattis.com/problems/costumecontest)|costumecontest|2.3|
+|22/03/25|[Red Rover](https://open.kattis.com/problems/redrover)|redrover|2.3|
+|22/03/25|[Tölvunarfræðingar telja](https://open.kattis.com/problems/tolvunarfraedingartelja)|tolvunarfraedingartelja|1.2|
+|22/03/25|[The Weight of Words](https://open.kattis.com/problems/weightofwords)|weightofwords|2.3|
+|||| **652.1** |
