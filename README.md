@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 662.4
+## Current Rating: 670.9
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -309,3 +309,11 @@ Date|Problem Name|Problem ID|Difficulty|
 |23/03/25|[Head Guard](https://open.kattis.com/problems/headguard)|headguard|2.3|
 |23/03/25|[Speedrun](https://open.kattis.com/problems/speedrun)|speedrun|2.3|
 |||| **662.4** |
+|24/03/25|[Avion](https://open.kattis.com/problems/avion)|avion|1.5|
+|24/03/25|[Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone)|basketballoneonone|1.5|
+|24/03/25|[Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades)|fiftyshades|1.5|
+|24/03/25|[Janitor Troubles](https://open.kattis.com/problems/janitortroubles)|janitortroubles|1.5|
+|24/03/25|[License to Launch](https://open.kattis.com/problems/licensetolaunch)|licensetolaunch|1.5|
+|24/03/25|[Telja](https://open.kattis.com/problems/telja)|telja|1.1|
+|24/03/25|[The Last Problem](https://open.kattis.com/problems/thelastproblem)|thelastproblem|1.5|
+|||| **670.9** |
