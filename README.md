@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 670.9
+## Current Rating: 680.7
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -317,3 +317,10 @@ Date|Problem Name|Problem ID|Difficulty|
 |24/03/25|[Telja](https://open.kattis.com/problems/telja)|telja|1.1|
 |24/03/25|[The Last Problem](https://open.kattis.com/problems/thelastproblem)|thelastproblem|1.5|
 |||| **670.9** |
+|25/03/25|[Attendance](https://open.kattis.com/problems/attendance2)|attendance2|1.7|
+|25/03/25|[Bottle Opening](https://open.kattis.com/problems/bottleopening)|bottleopening|1.7|
+|25/03/25|[Chugging](https://open.kattis.com/problems/chugging)|chugging|1.7|
+|25/03/25|[Code to Save Lives](https://open.kattis.com/problems/codetosavelives)|codetosavelives|1.7|
+|25/03/25|[Cornhusker](https://open.kattis.com/problems/cornhusker)|cornhusker|1.7|
+|25/03/25|[Haughty Cuisine](https://open.kattis.com/problems/haughtycuisine)|haughtycuisine|1.7|
+|||| **680.7** |
