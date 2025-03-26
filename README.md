@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 680.7
+## Current Rating: 690.0
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -324,3 +324,9 @@ Date|Problem Name|Problem ID|Difficulty|
 |25/03/25|[Cornhusker](https://open.kattis.com/problems/cornhusker)|cornhusker|1.7|
 |25/03/25|[Haughty Cuisine](https://open.kattis.com/problems/haughtycuisine)|haughtycuisine|1.7|
 |||| **680.7** |
+|26/03/25|[George](https://open.kattis.com/problems/george)|george|2.0|
+|26/03/25|[Packagemanager](https://open.kattis.com/problems/pakethanterare)|pakethanterare|2.0|
+|26/03/25|[Púsluspil](https://open.kattis.com/problems/pusluspil)|pusluspil|2.0|
+|26/03/25|[Rice judge](https://open.kattis.com/problems/risdomare)|risdomare|2.0|
+|26/03/25|[Songbook](https://open.kattis.com/problems/sangbok)|sangbok|2.0|
+|||| **690.0** |
