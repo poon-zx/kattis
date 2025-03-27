@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 690.0
+## Current Rating: 701.4
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -330,3 +330,9 @@ Date|Problem Name|Problem ID|Difficulty|
 |26/03/25|[Rice judge](https://open.kattis.com/problems/risdomare)|risdomare|2.0|
 |26/03/25|[Songbook](https://open.kattis.com/problems/sangbok)|sangbok|2.0|
 |||| **690.0** |
+|27/03/25|[Army Strength (Easy)](https://open.kattis.com/problems/armystrengtheasy)|armystrengtheasy|2.3|
+|27/03/25|[Erase Securely](https://open.kattis.com/problems/erase)|erase|2.3|
+|27/03/25|[Heliocentric](https://open.kattis.com/problems/heliocentric)|heliocentric|2.3|
+|27/03/25|[Judging Troubles](https://open.kattis.com/problems/judging)|judging|2.3|
+|27/03/25|[Takkar](https://open.kattis.com/problems/takkar)|takkar|1.1|
+|||| **701.4** |
