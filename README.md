@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 701.4
+## Current Rating: 711.5
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -336,3 +336,10 @@ Date|Problem Name|Problem ID|Difficulty|
 |27/03/25|[Judging Troubles](https://open.kattis.com/problems/judging)|judging|2.3|
 |27/03/25|[Takkar](https://open.kattis.com/problems/takkar)|takkar|1.1|
 |||| **701.4** |
+|28/03/25|[Flatbökuveisla](https://open.kattis.com/problems/flatbokuveisla)|armystrengtheasy|1.1|
+|28/03/25|[Flexible Spaces](https://open.kattis.com/problems/flexible)|flexible|1.8|
+|28/03/25|[Odd Man Out](https://open.kattis.com/problems/oddmanout)|oddmanout|1.8|
+|28/03/25|[Peragrams](https://open.kattis.com/problems/peragrams)|peragrams|1.8|
+|28/03/25|[Pervasive Heart Monitor](https://open.kattis.com/problems/pervasiveheartmonitor)|pervasiveheartmonitor|1.8|
+|28/03/25|[Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists)|synchronizinglists|1.8|
+|||| **711.5** |
