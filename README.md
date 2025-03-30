@@ -1,6 +1,7 @@
 # Kattis Solutions
 
-## Current Rating: 711.5
+## Current Rating: 719.8
+#### Days Debt: 1
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -343,3 +344,8 @@ Date|Problem Name|Problem ID|Difficulty|
 |28/03/25|[Pervasive Heart Monitor](https://open.kattis.com/problems/pervasiveheartmonitor)|pervasiveheartmonitor|1.8|
 |28/03/25|[Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists)|synchronizinglists|1.8|
 |||| **711.5** |
+|30/03/25|[Damaged Equation](https://open.kattis.com/problems/damagedequation)|damagedequation|2.5|
+|30/03/25|[From A to B](https://open.kattis.com/problems/fromatob)|fromatob|2.5|
+|30/03/25|[Inquiry I](https://open.kattis.com/problems/inquiryi)|inquiryi|2.5|
+|30/03/25|[Sort](https://open.kattis.com/problems/sort)|sort|2.5|
+|||| **719.8** |
