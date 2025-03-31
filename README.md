@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 719.8
+## Current Rating: 729.3
 #### Days Debt: 1
 
 Date|Problem Name|Problem ID|Difficulty|
@@ -349,3 +349,8 @@ Date|Problem Name|Problem ID|Difficulty|
 |30/03/25|[Inquiry I](https://open.kattis.com/problems/inquiryi)|inquiryi|2.5|
 |30/03/25|[Sort](https://open.kattis.com/problems/sort)|sort|2.5|
 |||| **719.8** |
+|31/03/25|[Beekeeper](https://open.kattis.com/problems/beekeeper)|beekeeper|2.6|
+|31/03/25|[Four Die Rolls](https://open.kattis.com/problems/fourdierolls)|fourdierolls|2.5|
+|31/03/25|[Longest Prime Sum](https://open.kattis.com/problems/longestprimesum)|longestprimesum|2.5|
+|31/03/25|[Tildes](https://open.kattis.com/problems/tildes)|tildes|2.6|
+|||| **729.3** |
