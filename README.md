@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 729.3
+## Current Rating: 739.4
 #### Days Debt: 1
 
 Date|Problem Name|Problem ID|Difficulty|
@@ -354,3 +354,8 @@ Date|Problem Name|Problem ID|Difficulty|
 |31/03/25|[Longest Prime Sum](https://open.kattis.com/problems/longestprimesum)|longestprimesum|2.5|
 |31/03/25|[Tildes](https://open.kattis.com/problems/tildes)|tildes|2.6|
 |||| **729.3** |
+|01/04/25|[Alphabet](https://open.kattis.com/problems/alphabet)|alphabet|3.0|
+|01/04/25|[Left and Right](https://open.kattis.com/problems/leftandright)|leftandright|3.0|
+|01/04/25|[Millifærsla](https://open.kattis.com/problems/millifaersla)|millifaersla|1.1|
+|01/04/25|[Text Message Outrage](https://open.kattis.com/problems/textmessaging)|textmessaging|3.0|
+|||| **739.4** |
