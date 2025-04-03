@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 739.4
+## Current Rating: 748.1
 #### Days Debt: 1
 
 Date|Problem Name|Problem ID|Difficulty|
@@ -359,3 +359,8 @@ Date|Problem Name|Problem ID|Difficulty|
 |01/04/25|[Millifærsla](https://open.kattis.com/problems/millifaersla)|millifaersla|1.1|
 |01/04/25|[Text Message Outrage](https://open.kattis.com/problems/textmessaging)|textmessaging|3.0|
 |||| **739.4** |
+|02/04/25|[Doubleplusgood](https://open.kattis.com/problems/doubleplusgood)|doubleplusgood|2.7|
+|02/04/25|[H to O](https://open.kattis.com/problems/htoo)|htoo|2.7|
+|02/04/25|[I Wanna Be The Very Best](https://open.kattis.com/problems/iwannabe)|iwannabe|2.7|
+|02/04/25|[Liðaskipting 2](https://open.kattis.com/problems/lidaskipting2)|lidaskipting2|2.5|
+|||| **748.1** |
