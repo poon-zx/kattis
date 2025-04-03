@@ -1,7 +1,7 @@
 # Kattis Solutions
 
 ## Current Rating: 748.1
-#### Days Debt: 1
+#### Days Debt: 2
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
