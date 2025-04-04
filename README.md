@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 748.1
+## Current Rating: 756.4
 #### Days Debt: 2
 
 Date|Problem Name|Problem ID|Difficulty|
@@ -364,3 +364,10 @@ Date|Problem Name|Problem ID|Difficulty|
 |02/04/25|[I Wanna Be The Very Best](https://open.kattis.com/problems/iwannabe)|iwannabe|2.7|
 |02/04/25|[Liðaskipting 2](https://open.kattis.com/problems/lidaskipting2)|lidaskipting2|2.5|
 |||| **748.1** |
+|04/04/25|[Booking a Room](https://open.kattis.com/problems/bookingaroom)|bookingaroom|1.6|
+|04/04/25|[Cookies](https://open.kattis.com/problems/kakor)|kakor|1.7|
+|04/04/25|[Flying Safely](https://open.kattis.com/problems/flyingsafely)|flyingsafely|1.7|
+|04/04/25|[Riječi](https://open.kattis.com/problems/rijeci)|rijeci|1.7|
+|04/04/25|[Veci](https://open.kattis.com/problems/veci)|veci|1.7|
+|04/04/25|[Volim](https://open.kattis.com/problems/volim)|volim|1.7|
+|||| **756.4** |
