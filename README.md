@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 756.4
+## Current Rating: 767.9
 #### Days Debt: 2
 
 Date|Problem Name|Problem ID|Difficulty|
@@ -371,3 +371,8 @@ Date|Problem Name|Problem ID|Difficulty|
 |04/04/25|[Veci](https://open.kattis.com/problems/veci)|veci|1.7|
 |04/04/25|[Volim](https://open.kattis.com/problems/volim)|volim|1.7|
 |||| **756.4** |
+|04/04/25|[Bus Numbers](https://open.kattis.com/problems/busnumbers2)|busnumbers2|2.7|
+|04/04/25|[Good Morning!](https://open.kattis.com/problems/goodmorning)|goodmorning|2.7|
+|04/04/25|[H-Index](https://open.kattis.com/problems/hindex)|hindex|2.7|
+|04/04/25|[Teacher Evaluation](https://open.kattis.com/problems/teacherevaluation)|teacherevaluation|2.7|
+|||| **767.9** |
