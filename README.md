@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 767.9
+## Current Rating: 777.9
 #### Days Debt: 2
 
 Date|Problem Name|Problem ID|Difficulty|
@@ -371,8 +371,16 @@ Date|Problem Name|Problem ID|Difficulty|
 |04/04/25|[Veci](https://open.kattis.com/problems/veci)|veci|1.7|
 |04/04/25|[Volim](https://open.kattis.com/problems/volim)|volim|1.7|
 |||| **756.4** |
-|04/04/25|[Bus Numbers](https://open.kattis.com/problems/busnumbers2)|busnumbers2|2.7|
-|04/04/25|[Good Morning!](https://open.kattis.com/problems/goodmorning)|goodmorning|2.7|
-|04/04/25|[H-Index](https://open.kattis.com/problems/hindex)|hindex|2.7|
-|04/04/25|[Teacher Evaluation](https://open.kattis.com/problems/teacherevaluation)|teacherevaluation|2.7|
+|05/04/25|[Bus Numbers](https://open.kattis.com/problems/busnumbers2)|busnumbers2|2.7|
+|05/04/25|[Good Morning!](https://open.kattis.com/problems/goodmorning)|goodmorning|2.7|
+|05/04/25|[H-Index](https://open.kattis.com/problems/hindex)|hindex|2.7|
+|05/04/25|[Teacher Evaluation](https://open.kattis.com/problems/teacherevaluation)|teacherevaluation|2.7|
 |||| **767.9** |
+|06/04/25|[Class Field Trip](https://open.kattis.com/problems/classfieldtrip)|classfieldtrip|1.4|
+|06/04/25|[Cut the Negativity](https://open.kattis.com/problems/cutthenegativity)|cutthenegativity|1.4|
+|06/04/25|[Hair of the Dog](https://open.kattis.com/problems/hairofthedog)|hairofthedog|1.4|
+|06/04/25|[Mæting](https://open.kattis.com/problems/maeting)|maeting|1.4|
+|06/04/25|[SMIL](https://open.kattis.com/problems/smil)|smil|1.6|
+|06/04/25|[Translation](https://open.kattis.com/problems/translation)|translation|1.4|
+|06/04/25|[Undead or Alive](https://open.kattis.com/problems/undeadoralive)|undeadoralive|1.4|
+|||| **777.9** |
