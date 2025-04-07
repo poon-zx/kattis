@@ -1,7 +1,7 @@
 # Kattis Solutions
 
-## Current Rating: 777.9
-#### Days Debt: 2
+## Current Rating: 782.9
+#### Days Debt: 2.5
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -384,3 +384,6 @@ Date|Problem Name|Problem ID|Difficulty|
 |06/04/25|[Translation](https://open.kattis.com/problems/translation)|translation|1.4|
 |06/04/25|[Undead or Alive](https://open.kattis.com/problems/undeadoralive)|undeadoralive|1.4|
 |||| **777.9** |
+|07/04/25|[Continuous Median](https://open.kattis.com/problems/continuousmedian)|continuousmedian|2.7|
+|07/04/25|[Lektira](https://open.kattis.com/problems/lektira)|lektira|2.7|
+|||| **782.9** |
