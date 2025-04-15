@@ -1,7 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 793.2
-#### Days Debt: 2.5
+## Current Rating: 800.5
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -391,3 +390,6 @@ Date|Problem Name|Problem ID|Difficulty|
 |08/04/25|[Knapsack](https://open.kattis.com/problems/knapsack)|knapsack|4.5|
 |08/04/25|[Counting Subsequences (Hard)](https://open.kattis.com/problems/subseqhard)|subseqhard|3.2|
 |||| **793.2** |
+|15/04/25|[Nikola](https://open.kattis.com/problems/nikola)|nikola|3.4|
+|15/04/25|[Spiderman's Workout](https://open.kattis.com/problems/spiderman)|spiderman|3.9|
+|||| **800.5** |
