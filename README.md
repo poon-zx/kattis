@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 806.3
+## Current Rating: 819.2
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -396,3 +396,6 @@ Date|Problem Name|Problem ID|Difficulty|
 |16/04/25|[Fenwick Tree](https://open.kattis.com/problems/fenwick)|fenwick|3.7|
 |16/04/25|[Just for Sidekicks](https://open.kattis.com/problems/justforsidekicks)|justforsidekicks|3.5|
 |||| **806.3** |
+|17/04/25|[Nested Dolls](https://open.kattis.com/problems/nesteddolls)|nesteddolls|6.4|
+|17/04/25|[Selling Spatulas](https://open.kattis.com/problems/sellingspatulas)|sellingspatulas|7.1|
+|||| **819.2** |
