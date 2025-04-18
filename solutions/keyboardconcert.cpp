@@ -44,25 +44,35 @@ constexpr array<array<int, 2>, 4> directions{{
 // vector<vector<int>> v(3, vector<int>(4,0) 3x4 filled with 0s
 
 void solve() {
-  int n;
-  cin>>n;
-  vector<ll> v(n);
-  for (int i=0;i<n;i++) cin>>v[i];
-  vector<pair<ll,ll>> problems(n);
+  int n,m;
+  cin>>n>>m;
+  vector<unordered_set<int>> v(n,unordered_set<int>());
   for (int i=0;i<n;i++) {
-    ll t;
-    cin>>t;
-    problems[i]={t,v[i]};
+    int a;
+    cin>>a;
+    for (int j=0;j<a;j++) {
+      int b;
+      cin>>b;
+      v[i].insert(b);
+    }
   }
-  sort(problems.begin(),problems.end());
-  ll curr=0;
-  ll res=0;
-  for (auto& p:problems) {
-    if (p.first==-1) continue;
-    curr+=p.second;
-    res=max(res,(curr-1+p.first)/p.first);
+  vector<int> notes(m);
+  for (int i=0;i<m;i++) cin>>notes[i];
+  vector<vector<int>> dp(n,vector<int>(m+1,MOD));
+  for (int i=0;i<n;i++) dp[i][0]=0;
+  for (int i=1;i<=m;i++) {
+    for (int j=0;j<n;j++) {
+      if (v[j].find(notes[i-1])!=v[j].end()) {
+        dp[j][i]=min(dp[j][i-1],dp[j][i]);
+        for (int k=0;k<n;k++) {
+          if (k==j) continue;
+          dp[k][i]=min(dp[j][i-1]+1,dp[k][i]);
+        }
+      }
+    }
   }
-  
+  int res=MOD;
+  for (int i=0;i<n;i++) res=min(res,dp[i][m]);
   cout<<res;
 }
 

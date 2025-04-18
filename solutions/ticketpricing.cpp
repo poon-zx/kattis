@@ -44,26 +44,43 @@ constexpr array<array<int, 2>, 4> directions{{
 // vector<vector<int>> v(3, vector<int>(4,0) 3x4 filled with 0s
 
 void solve() {
-  int n;
-  cin>>n;
-  vector<ll> v(n);
-  for (int i=0;i<n;i++) cin>>v[i];
-  vector<pair<ll,ll>> problems(n);
-  for (int i=0;i<n;i++) {
-    ll t;
-    cin>>t;
-    problems[i]={t,v[i]};
+  int n,w;
+  cin>>n>>w;
+  vector<vector<ll>> dp(w+2,vector<ll>(n+1,-MOD));
+  vector<vector<pair<int,int>>> v(w+1,vector<pair<int,int>>());
+  for (int i=0;i<=n;i++) {
+    dp[w+1][i]=0;
   }
-  sort(problems.begin(),problems.end());
-  ll curr=0;
-  ll res=0;
-  for (auto& p:problems) {
-    if (p.first==-1) continue;
-    curr+=p.second;
-    res=max(res,(curr-1+p.first)/p.first);
+  for (int i=0;i<w+1;i++) {
+    int a;
+    cin>>a;
+    for (int j=0;j<a;j++) {
+      int b;
+      cin>>b;
+      v[i].push_back({b,0});
+    }
+    for (int j=0;j<a;j++) {
+      int c;
+      cin>>c;
+      v[i][j].second=c;
+    }
   }
-  
-  cout<<res;
+  for (int i=w;i>=0;i--) {
+    for (int j=n;j>=0;j--) {
+      for (auto& p:v[i]) {
+        int sold=min(p.second,j);
+        dp[i][j]=max(dp[i][j],dp[i+1][j-sold]+p.first*(ll)sold);
+      }
+    }
+  }
+  cout<<dp[0][n]<<"\n";
+  int best=INT_MAX;
+  for (auto &pr:v[0]) {
+    int p=pr.first;
+    int sold=min(pr.second,n);
+    if (dp[1][n-sold]+ll(p)*sold==dp[0][n]) best=min(best,p);
+  }
+  cout<<best;
 }
 
 int main() {
