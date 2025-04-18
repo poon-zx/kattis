@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 819.2
+## Current Rating: 826.7
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -399,3 +399,6 @@ Date|Problem Name|Problem ID|Difficulty|
 |17/04/25|[Nested Dolls](https://open.kattis.com/problems/nesteddolls)|nesteddolls|6.4|
 |17/04/25|[Selling Spatulas](https://open.kattis.com/problems/sellingspatulas)|sellingspatulas|7.1|
 |||| **819.2** |
+|18/04/25|[Keyboards in Concert](https://open.kattis.com/problems/keyboardconcert)|keyboardconcert|3.7|
+|18/04/25|[Plane Ticket Pricing](https://open.kattis.com/problems/ticketpricing)|ticketpricing|3.8|
+|||| **826.7** |
