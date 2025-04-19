@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 826.7
+## Current Rating: 830.5
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -402,3 +402,5 @@ Date|Problem Name|Problem ID|Difficulty|
 |18/04/25|[Keyboards in Concert](https://open.kattis.com/problems/keyboardconcert)|keyboardconcert|3.7|
 |18/04/25|[Plane Ticket Pricing](https://open.kattis.com/problems/ticketpricing)|ticketpricing|3.8|
 |||| **826.7** |
+|19/04/25|[Word Clouds Revisited](https://open.kattis.com/problems/wordclouds)|wordclouds|4.6|
+|||| **830.5** |
