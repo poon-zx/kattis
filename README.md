@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 830.5
+## Current Rating: 835.7
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -404,3 +404,5 @@ Date|Problem Name|Problem ID|Difficulty|
 |||| **826.7** |
 |19/04/25|[Word Clouds Revisited](https://open.kattis.com/problems/wordclouds)|wordclouds|4.6|
 |||| **830.5** |
+|20/04/25|[Bag of Tiles](https://open.kattis.com/problems/bagoftiles)|bagoftiles|6.0|
+|||| **835.7** |
