@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 835.7
+## Current Rating: 843.2
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -406,3 +406,7 @@ Date|Problem Name|Problem ID|Difficulty|
 |||| **830.5** |
 |20/04/25|[Bag of Tiles](https://open.kattis.com/problems/bagoftiles)|bagoftiles|6.0|
 |||| **835.7** |
+|21/04/25|[Restaurant Orders](https://open.kattis.com/problems/orders)|orders|4.8|
+|||| **840.0** |
+|22/04/25|[Firefly](https://open.kattis.com/problems/firefly)|firefly|3.0|
+|||| **843.2** |
