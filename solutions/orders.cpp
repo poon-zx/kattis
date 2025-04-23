@@ -43,44 +43,50 @@ constexpr array<array<int, 2>, 4> directions{{
 
 // vector<vector<int>> v(3, vector<int>(4,0) 3x4 filled with 0s
 
-// a is the number of possible draws to win,
-// i.e. asking how many combinations of length n would sum up to t
-// b is number of remaining combinations
-
-
-
 void solve() {
-  int g;
-  cin>>g;
-  ll C[31][31];
-  
-  for(int i = 0; i <= 30; i++){
-    C[i][0] = C[i][i] = 1;
-    for(int j = 1; j < i; j++){
-        C[i][j] = C[i-1][j-1] + C[i-1][j];
-    }
+  int n;
+  cin>>n;
+  vector<int> v(n);
+  for (int i=0;i<n;i++) cin>>v[i];
+  int m;
+  cin>>m;
+  vector<int> sums(m);
+  int maxSum=0;
+  for (int i=0;i<m;i++) {
+    cin>>sums[i];
+    maxSum=max(maxSum,sums[i]);
   }
-
-  for (int i=1;i<=g;i++) {
-    int m;
-    cin>>m;
-    vector<int> v(m);
-    for (int j=0;j<m;j++) cin>>v[j];
-    int n,t;
-    cin>>n>>t;
-    vector<vector<ll>> dp(n+1,vector<ll>(t+1,0));
-    dp[0][0]=1;
-    for (int tile:v) {
-      for (int j=n;j>0;j--) {
-        for (int v=t;v>=tile;v--) {
-          dp[j][v]+=dp[j-1][v-tile];
-        }
+  vector<int> dp(maxSum+1,0);
+  dp[0]=-2;
+  for (int i=0;i<n;i++) {
+    for (int j=0;j<=maxSum-v[i];j++) {
+      if (dp[j]==0) continue;
+      int add=dp[j+v[i]];
+      if (add==0) {
+        if (dp[j]>0||dp[j]==-2) {
+          dp[j+v[i]]=i+1;
+        } else dp[j+v[i]]=-1;
+      } else {
+        dp[j+v[i]]=-1;
       }
     }
-    ll win=dp[n][t];
-    ll total=C[m][n];
-    ll lose=total-win;
-    cout<<"Game "<<i<<" -- "<<win<<" : "<<lose<<"\n";
+  }
+  for (int i=0;i<m;i++) {
+    if (dp[sums[i]]==-1) {
+      cout<<"Ambiguous"<<"\n";
+    } else if (dp[sums[i]]==0) {
+      cout<<"Impossible"<<"\n";
+    } else {
+      vector<int> res;
+      int curr=sums[i];
+      while(curr>0) {
+        res.push_back(dp[curr]);
+        curr-=v[dp[curr]-1];
+      }
+      sort(res.begin(),res.end());
+      for (auto& ele:res) cout<<ele<<" ";
+      cout<<"\n";
+    }
   }
 }
 

@@ -43,45 +43,31 @@ constexpr array<array<int, 2>, 4> directions{{
 
 // vector<vector<int>> v(3, vector<int>(4,0) 3x4 filled with 0s
 
-// a is the number of possible draws to win,
-// i.e. asking how many combinations of length n would sum up to t
-// b is number of remaining combinations
-
-
-
 void solve() {
-  int g;
-  cin>>g;
-  ll C[31][31];
-  
-  for(int i = 0; i <= 30; i++){
-    C[i][0] = C[i][i] = 1;
-    for(int j = 1; j < i; j++){
-        C[i][j] = C[i-1][j-1] + C[i-1][j];
-    }
+  int n,h;
+  cin>>n>>h;
+  vector<int> bot;
+  vector<int> top;
+  for (int i=1;i<=n;i++) {
+    int a;
+    cin>>a;
+    if (i%2==0) top.push_back(a);
+    else bot.push_back(a);
   }
-
-  for (int i=1;i<=g;i++) {
-    int m;
-    cin>>m;
-    vector<int> v(m);
-    for (int j=0;j<m;j++) cin>>v[j];
-    int n,t;
-    cin>>n>>t;
-    vector<vector<ll>> dp(n+1,vector<ll>(t+1,0));
-    dp[0][0]=1;
-    for (int tile:v) {
-      for (int j=n;j>0;j--) {
-        for (int v=t;v>=tile;v--) {
-          dp[j][v]+=dp[j-1][v-tile];
-        }
-      }
-    }
-    ll win=dp[n][t];
-    ll total=C[m][n];
-    ll lose=total-win;
-    cout<<"Game "<<i<<" -- "<<win<<" : "<<lose<<"\n";
+  sort(top.begin(),top.end());
+  sort(bot.begin(),bot.end());
+  int highest=MOD;
+  int most=1;
+  for (int i=1;i<=h;i++) {
+    auto top_it=lower_bound(top.begin(),top.end(),h-i+1);
+    auto bot_it=lower_bound(bot.begin(),bot.end(),i);
+    int total=n/2-(top_it-top.begin())+n/2-(bot_it-bot.begin());
+    if (total<highest) {
+      highest=total;
+      most=1;
+    } else if (total==highest) most++;
   }
+  cout<<highest<<" "<<most;
 }
 
 int main() {
