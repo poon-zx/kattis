@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 843.2
+## Current Rating: 865.8
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -410,3 +410,9 @@ Date|Problem Name|Problem ID|Difficulty|
 |||| **840.0** |
 |22/04/25|[Firefly](https://open.kattis.com/problems/firefly)|firefly|3.0|
 |||| **843.2** |
+|23/04/25|[A1 Paper](https://open.kattis.com/problems/a1paper)|a1paper|4.4|
+|23/04/25|[Reachable Roads](https://open.kattis.com/problems/reachableroads)|reachableroads|1.9|
+|23/04/25|[Running MoM](https://open.kattis.com/problems/runningmom)|runningmom|4.0|
+|23/04/25|[Terraces](https://open.kattis.com/problems/terraces)|terraces|6.4|
+|23/04/25|[Where's My Internet??](https://open.kattis.com/problems/wheresmyinternet)|wheresmyinternet|2.3|
+|||| **865.8** |
