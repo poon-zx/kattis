@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 865.8
+## Current Rating: 875.8
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -416,3 +416,8 @@ Date|Problem Name|Problem ID|Difficulty|
 |23/04/25|[Terraces](https://open.kattis.com/problems/terraces)|terraces|6.4|
 |23/04/25|[Where's My Internet??](https://open.kattis.com/problems/wheresmyinternet)|wheresmyinternet|2.3|
 |||| **865.8** |
+|24/04/25|[Basic Programming 2](https://open.kattis.com/problems/basicprogramming2)|basicprogramming2|3.8|
+|24/04/25|[Bit by Bit](https://open.kattis.com/problems/bitbybit)|bitbybit|4.4|
+|24/04/25|[Jolly Jumpers](https://open.kattis.com/problems/jollyjumpers)|jollyjumpers|2.4|
+|||| **875.8** |
+
