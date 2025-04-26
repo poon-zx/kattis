@@ -71,9 +71,19 @@ std::vector<int> kmp_search(const std::string &text, const std::string &pattern)
 
 void solve() {
   string s;
-  while(getline(cin,s)) {
-    for (int i=0;i<s.size();i++) s[i]=tolower(s[i]);
-    cout<<((kmp_search(s,"problem").size()==0)?"no":"yes")<<endl;
+  while(cin>>s&&s!=".") {
+    int m=s.size();
+    vector<int> b(m+1);
+    b[0] = -1;
+    int i = 0, j = -1;
+    while (i < m) {
+        while (j >= 0 && s[i] != s[j]) j = b[j];
+        ++i; ++j;
+        b[i] = j;
+    }
+    int n=m-b[m];
+    if(m%n==0) cout<<m/n<<"\n";
+    else cout<<1<<"\n";
   }
 }
 

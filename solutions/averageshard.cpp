@@ -43,38 +43,25 @@ constexpr array<array<int, 2>, 4> directions{{
 
 // vector<vector<int>> v(3, vector<int>(4,0) 3x4 filled with 0s
 
-std::vector<int> kmp_search(const std::string &text, const std::string &pattern) {
-    int n = text.size(), m = pattern.size();
-    if (m == 0) return {};                   // no pattern → no matches
-    // build “failure” table
-    std::vector<int> b(m+1);
-    b[0] = -1;
-    int i = 0, j = -1;
-    while (i < m) {
-        while (j >= 0 && pattern[i] != pattern[j]) j = b[j];
-        ++i; ++j;
-        b[i] = j;
-    }
-    // search
-    std::vector<int> matches;
-    i = 0; j = 0;
-    while (i < n) {
-        while (j >= 0 && text[i] != pattern[j]) j = b[j];
-        ++i; ++j;
-        if (j == m) {
-            matches.push_back(i - j);
-            j = b[j];
-        }
-    }
-    return matches;
-}
-
 void solve() {
-  string s;
-  while(getline(cin,s)) {
-    for (int i=0;i<s.size();i++) s[i]=tolower(s[i]);
-    cout<<((kmp_search(s,"problem").size()==0)?"no":"yes")<<endl;
+  int cs,e;
+  cin>>cs>>e;
+  vector<ll> v1(cs),v2(e);
+  ld cs_sum=0,e_sum=0;
+  for (int i=0;i<cs;i++) {
+    cin>>v1[i];
+    cs_sum+=(ld)v1[i];
   }
+  for (int i=0;i<e;i++) {
+    cin>>v2[i];
+    e_sum+=(ld)v2[i];
+  }
+  int res=0;
+  ld cs_avg=cs_sum/(ld)cs,e_avg=e_sum/(ld)e;
+  for (int i=0;i<cs;i++) {
+    if (((cs_sum-(ld)v1[i])/(ld)(cs-1.0)>cs_avg)&&((e_sum+(ld)v1[i])/(ld)(e+1.0)>e_avg)) res++;
+  }
+  cout<<res<<"\n";
 }
 
 int main() {
@@ -82,7 +69,8 @@ int main() {
   cin.tie(nullptr);
   cout.tie(nullptr);
 
-  int tc{1};
+  int tc;
+  cin>>tc;
   while (tc--) {
     solve();
   }

@@ -43,37 +43,29 @@ constexpr array<array<int, 2>, 4> directions{{
 
 // vector<vector<int>> v(3, vector<int>(4,0) 3x4 filled with 0s
 
-std::vector<int> kmp_search(const std::string &text, const std::string &pattern) {
-    int n = text.size(), m = pattern.size();
-    if (m == 0) return {};                   // no pattern → no matches
-    // build “failure” table
-    std::vector<int> b(m+1);
-    b[0] = -1;
-    int i = 0, j = -1;
-    while (i < m) {
-        while (j >= 0 && pattern[i] != pattern[j]) j = b[j];
-        ++i; ++j;
-        b[i] = j;
-    }
-    // search
-    std::vector<int> matches;
-    i = 0; j = 0;
-    while (i < n) {
-        while (j >= 0 && text[i] != pattern[j]) j = b[j];
-        ++i; ++j;
-        if (j == m) {
-            matches.push_back(i - j);
-            j = b[j];
-        }
-    }
-    return matches;
-}
+struct point_i {
+  int x, y;                                      // use this if possible
+  point_i() { x = y = 0; }                       // default constructor
+  point_i(int _x, int _y) : x(_x), y(_y) {}      // constructor
+};
 
 void solve() {
-  string s;
-  while(getline(cin,s)) {
-    for (int i=0;i<s.size();i++) s[i]=tolower(s[i]);
-    cout<<((kmp_search(s,"problem").size()==0)?"no":"yes")<<endl;
+  int n;
+  while(cin>>n&&n!=0) {
+    vector<point_i> v(n);
+    for (int i=0;i<n;i++) {
+      int a,b;
+      cin>>a>>b;
+      v[i]=point_i(a,b);
+    }
+    point_i mid=v[n/2];
+    int stan=0,ollie=0;
+    for (int i=0;i<n;i++) {
+      point_i curr=v[i];
+      if((curr.x>mid.x&&curr.y>mid.y)||(curr.x<mid.x&&curr.y<mid.y)) stan++;
+      else if ((curr.x<mid.x&&curr.y>mid.y)||(curr.x>mid.x&&curr.y<mid.y)) ollie++;
+    }
+    cout<<stan<<" "<<ollie<<endl;
   }
 }
 
