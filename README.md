@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 875.8
+## Current Rating: 890.9
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -420,4 +420,11 @@ Date|Problem Name|Problem ID|Difficulty|
 |24/04/25|[Bit by Bit](https://open.kattis.com/problems/bitbybit)|bitbybit|4.4|
 |24/04/25|[Jolly Jumpers](https://open.kattis.com/problems/jollyjumpers)|jollyjumpers|2.4|
 |||| **875.8** |
+|26/04/25|[Paradox With Averages (Hard)](https://open.kattis.com/problems/averageshard)|averageshard|2.9|
+|26/04/25|[Brownie Points I](https://open.kattis.com/problems/browniepoints)|browniepoints|2.3|
+|26/04/25|[Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle)|estimatingtheareaofacircle|1.6|
+|26/04/25|[Power Strings](https://open.kattis.com/problems/powerstrings)|powerstrings|5.4|
+|26/04/25|[Take Two Stones](https://open.kattis.com/problems/twostones)|twostones|1.3|
+|26/04/25|[Unlock Pattern](https://open.kattis.com/problems/unlockpattern)|unlockpattern|1.8|
+|||| **890.9** |
 
