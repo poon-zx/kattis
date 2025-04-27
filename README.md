@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 890.9
+## Current Rating: 922.3
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -427,4 +427,13 @@ Date|Problem Name|Problem ID|Difficulty|
 |26/04/25|[Take Two Stones](https://open.kattis.com/problems/twostones)|twostones|1.3|
 |26/04/25|[Unlock Pattern](https://open.kattis.com/problems/unlockpattern)|unlockpattern|1.8|
 |||| **890.9** |
+|27/04/25|[Baloni](https://open.kattis.com/problems/baloni)|baloni|3.1|
+|27/04/25|[Bread Sorting](https://open.kattis.com/problems/bread)|bread|4.3|
+|27/04/25|[Disastrous Downtime](https://open.kattis.com/problems/downtime)|downtime|4.1|
+|27/04/25|[EpigDanceOff](https://open.kattis.com/problems/epigdanceoff)|epigdanceoff|2.0|
+|27/04/25|[Greedily Increasing Subsequence](https://open.kattis.com/problems/greedilyincreasing)|greedilyincreasing|1.7|
+|27/04/25|[Height Ordering](https://open.kattis.com/problems/height)|height|1.8|
+|27/04/25|[Magic Sequence](https://open.kattis.com/problems/magicsequence)|magicsequence|8.1|
+|27/04/25|[Mali](https://open.kattis.com/problems/mali)|mali|5.5|
+|||| **922.3** |
 
