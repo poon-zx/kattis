@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 922.3
+## Current Rating: 930.1
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -436,4 +436,8 @@ Date|Problem Name|Problem ID|Difficulty|
 |27/04/25|[Magic Sequence](https://open.kattis.com/problems/magicsequence)|magicsequence|8.1|
 |27/04/25|[Mali](https://open.kattis.com/problems/mali)|mali|5.5|
 |||| **922.3** |
+|28/04/25|[Closest Sums](https://open.kattis.com/problems/closestsums)|closestsums|2.6|
+|28/04/25|[Golomb Rulers](https://open.kattis.com/problems/golombrulers)|golombrulers|2.8|
+|28/04/25|[Pet](https://open.kattis.com/problems/pet)|pet|1.3|
+|||| **930.1** |
 
