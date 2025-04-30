@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 947.3
+## Current Rating: 958.7
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -447,4 +447,8 @@ Date|Problem Name|Problem ID|Difficulty|
 |29/04/25|[Musical Chairs](https://open.kattis.com/problems/musicalchairs)|musicalchairs|3.1|
 |29/04/25|[Toys](https://open.kattis.com/problems/toys)|toys|3.7|
 |||| **947.3** |
+|30/04/25|[Classrooms](https://open.kattis.com/problems/classrooms)|classrooms|5.8|
+|30/04/25|[Travelling Monk](https://open.kattis.com/problems/monk)|monk|3.3|
+|30/04/25|[Out of Sorts](https://open.kattis.com/problems/outofsorts)|outofsorts|2.3|
+|||| **958.7** |
 
