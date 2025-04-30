@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 930.1
+## Current Rating: 947.3
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -440,4 +440,11 @@ Date|Problem Name|Problem ID|Difficulty|
 |28/04/25|[Golomb Rulers](https://open.kattis.com/problems/golombrulers)|golombrulers|2.8|
 |28/04/25|[Pet](https://open.kattis.com/problems/pet)|pet|1.3|
 |||| **930.1** |
+|30/04/25|[Cudoviste](https://open.kattis.com/problems/cudoviste)|cudoviste|1.5|
+|30/04/25|[Eeny Meeny](https://open.kattis.com/problems/eenymeeny)|eenymeeny|2.0|
+|30/04/25|[Fooling Around](https://open.kattis.com/problems/foolingaround)|foolingaround|5.7|
+|30/04/25|[Jumbled Communication](https://open.kattis.com/problems/communication)|communication|2.1|
+|30/04/25|[Musical Chairs](https://open.kattis.com/problems/musicalchairs)|musicalchairs|3.1|
+|30/04/25|[Toys](https://open.kattis.com/problems/toys)|toys|3.7|
+|||| **947.3** |
 
