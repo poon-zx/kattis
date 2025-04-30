@@ -51,20 +51,23 @@ void solve() {
     cin>>v[i].first>>v[i].second;
   }
   sort(v.begin(),v.end(),
-    [](auto &A,auto &B) {return A.second<B.second;});
-  priority_queue<ll,vector<ll>,greater<ll>> pq;
+    [](auto &A,auto &B) {return A.first<B.first;});
+  multiset<ll> active;
   ll cnt=0;
   for (auto &[s,f]:v) {
-    if (pq.size()<k) {
-      pq.push(f);
+    while(!active.empty()&&*active.begin()<s) active.erase(active.begin());
+    if(active.size()<k) {
+      active.insert(f);
       cnt++;
-    } else if (pq.top()<s) {
-      pq.pop();
-      pq.push(f);
-      cnt++;
+    } else {
+      auto it=prev(active.end());
+      if(*it>f) {
+        active.erase(it);
+        active.insert(f);
+      }
     }
   }
-  cout<<cnt;
+  cout<<cnt<<"\n";
 }
 
 int main() {
