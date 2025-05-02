@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 958.7
+## Current Rating: 1088.8
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -34,7 +34,7 @@ Date|Problem Name|Problem ID|Difficulty|
 |04/02/25|[Sticky Keys](https://open.kattis.com/problems/stickykeys)|stickykeys|1.5|
 |04/02/25|[Symmetric Order](https://open.kattis.com/problems/symmetricorder)|symmetricorder|1.7|
 |04/02/25|[The N Days of Christmas](https://open.kattis.com/problems/thendaysofchristmas)|ndaysofchristmas|1.5|
-|04/02/25|[Title Cost](https://open.kattis.com/problems/titlecost)|titlecost.cpp|1.5|
+|04/02/25|[Title Cost](https://open.kattis.com/problems/titlecost)|titlecost|1.5|
 |04/02/25|[Tower Construction](https://open.kattis.com/problems/tornbygge)|towerconstruction|1.6|
 |04/02/25|[Training](https://open.kattis.com/problems/training)|training|1.5|
 |04/02/25|[Zoom](https://open.kattis.com/problems/zoom)|zoom|1.5|
@@ -451,4 +451,104 @@ Date|Problem Name|Problem ID|Difficulty|
 |30/04/25|[Travelling Monk](https://open.kattis.com/problems/monk)|monk|3.3|
 |30/04/25|[Out of Sorts](https://open.kattis.com/problems/outofsorts)|outofsorts|2.3|
 |||| **958.7** |
+|02/05/25|[Aaah!](https://open.kattis.com/problems/aaah)|aaah|1.4|
+|02/05/25|[Adding Trouble](https://open.kattis.com/problems/addingtrouble)|breakingbranches|1.2|
+|02/05/25|[Add Two Numbers](https://open.kattis.com/problems/addtwonumbers)|addtwonumbers|1.2|
+|02/05/25|[Airfare Grants](https://open.kattis.com/problems/airfaregrants)|airfaregrants|1.4|
+|02/05/25|[Akureyi](https://open.kattis.com/problems/akureyri)|akureyri|1.4|
+|02/05/25|[Aldur](https://open.kattis.com/problems/aldur)|aldur|1.2|
+|02/05/25|[Amerískur vinnustaður](https://open.kattis.com/problems/ameriskur)|ameriskur|1.2|
+|02/05/25|[Contrarianism](https://open.kattis.com/problems/andmal)|andmal|1.4|
+|02/05/25|[A Terrible Fortress](https://open.kattis.com/problems/aterriblefortress)|aterriblefortress|1.2|
+|02/05/25|[Barcelona](https://open.kattis.com/problems/barcelona)|barcelona|1.3|
+|02/05/25|[Batter Up](https://open.kattis.com/problems/batterup)|batterup|1.4|
+|02/05/25|[Besta gjöfin](https://open.kattis.com/problems/bestagjofin)|bestagjofin|1.2|
+|02/05/25|[Betting](https://open.kattis.com/problems/betting)|betting|1.3|
+|02/05/25|[Bijele](https://open.kattis.com/problems/bijele)|bijele|1.2|
+|02/05/25|[Bilað Lyklaborð](https://open.kattis.com/problems/biladlyklabord)|biladlyklabord|1.4|
+|02/05/25|[Bitte ein Bit](https://open.kattis.com/problems/bitteeinbit)|bitteeinbit|1.4|
+|02/05/25|[Blaðra](https://open.kattis.com/problems/bladra2)|bladra2|1.2|
+|02/05/25|[Blandað Best](https://open.kattis.com/problems/blandadbest)|blandadbest|1.2|
+|02/05/25|[Call for Problems](https://open.kattis.com/problems/callforproblems)|callforproblems|1.3|
+|02/05/25|[Solving for Carrots](https://open.kattis.com/problems/carrots)|carrots|1.2|
+|02/05/25|[Cetvrta](https://open.kattis.com/problems/cetvrta)|cetvrta|1.3|
+|02/05/25|[Chanukah Challenge](https://open.kattis.com/problems/chanukah)|chanukah|1.4|
+|02/05/25|[Cold-puter Science](https://open.kattis.com/problems/cold)|cold|1.4|
+|02/05/25|[Cosmic Path Optimization](https://open.kattis.com/problems/cosmicpathoptimization)|cosmicpathoptimization|1.3|
+|02/05/25|[Count the Vowels](https://open.kattis.com/problems/countthevowels)|countthevowels|1.2|
+|02/05/25|[Dagatal](https://open.kattis.com/problems/dagatal)|dagatal|1.2|
+|02/05/25|[D Fyrir Dreki](https://open.kattis.com/problems/dfyrirdreki)|dfyrirdreki|1.3|
+|02/05/25|[Digit Swap](https://open.kattis.com/problems/digitswap)|digitswap|1.2|
+|02/05/25|[Divvying Up](https://open.kattis.com/problems/divvyingup)|divvyingup|1.4|
+|02/05/25|[Draga Frá](https://open.kattis.com/problems/dragafra)|dragafra|1.1|
+|02/05/25|[Echo Echo Echo](https://open.kattis.com/problems/echoechoecho)|echoechoecho|1.2|
+|02/05/25|[Equal Shots](https://open.kattis.com/problems/equalshots)|equalshots|1.3|
+|02/05/25|[Faktor](https://open.kattis.com/problems/faktor)|faktor|1.4|
+|02/05/25|[Filip](https://open.kattis.com/problems/filip)|filip|1.4|
+|02/05/25|[Fimmtudagstilboð](https://open.kattis.com/problems/fimmtudagstilbod)|fimmtudagstilbod|1.4|
+|02/05/25|[Finding An A](https://open.kattis.com/problems/findingana)|findingana|1.3|
+|02/05/25|[Fjöldi Bókstafa](https://open.kattis.com/problems/fjoldibokstafa)|fjoldibokstafa|1.4|
+|02/05/25|[Flýtibaka](https://open.kattis.com/problems/flytibaka)|flytibaka|1.4|
+|02/05/25|[FYI](hhttps://open.kattis.com/problems/fyi)|fyi|1.2|
+|02/05/25|[GCVWR](https://open.kattis.com/problems/gcvwr)|gcvwr|1.4|
+|02/05/25|[Gin Fizz](https://open.kattis.com/problems/ginfizz)|ginfizz|1.4|
+|02/05/25|[Gluttonous George](https://open.kattis.com/problems/goggi)|goggi|1.2|
+|02/05/25|[Grass Seed Inc.](https://open.kattis.com/problems/grassseed)|grassseed|1.3|
+|02/05/25|[Greetings!](https://open.kattis.com/problems/greetings2)|greetings2|1.4|
+|02/05/25|[Hakkari](https://open.kattis.com/problems/hakkari)|hakkari|1.4|
+|02/05/25|[Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout)|hangingout|1.4|
+|02/05/25|[Harshad Numbers](https://open.kattis.com/problems/harshadnumbers)|harshadnumbers|1.4|
+|02/05/25|[Hello World!](https://open.kattis.com/problems/hello)|hello|1.1|
+|02/05/25|[Heysáta](https://open.kattis.com/problems/heysata)|heysata|1.3|
+|02/05/25|[Hipp Hipp Húrra](https://open.kattis.com/problems/hipphipphurra)|hipphipphurra|1.2|
+|02/05/25|[Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)|hissingmicrophone|1.3|
+|02/05/25|[Hraðgreining](https://open.kattis.com/problems/hradgreining)|hradgreining|1.3|
+|02/05/25|[IsItHalloween.com](https://open.kattis.com/problems/isithalloween)|isithalloween|1.3|
+|02/05/25|[Is Y a Vowel?](https://open.kattis.com/problems/isyavowel)|isyavowel|1.2|
+|02/05/25|[Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition)|jackolanternjuxtaposition|1.1|
+|02/05/25|[Job Expenses](https://open.kattis.com/problems/jobexpenses)|jobexpenses|1.4|
+|02/05/25|[Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin)|jumbojavelin|1.2|
+|02/05/25|[Keys, Phone, Wallet](https://open.kattis.com/problems/keysphonewallet)|keysphonewallet|1.4|
+|02/05/25|[Kiki Boba](https://open.kattis.com/problems/kikiboba)|kikiboba|1.4|
+|02/05/25|[Knight Packing](https://open.kattis.com/problems/knightpacking)|knightpacking|1.3|
+|02/05/25|[Knot Knowledge](https://open.kattis.com/problems/knotknowledge)|knotknowledge|1.3|
+|02/05/25|[Kveðja](https://open.kattis.com/problems/kvedja)|kvedja|1.1|
+|02/05/25|[Léttasta verkefnið?](https://open.kattis.com/problems/lettasta)|lettasta|1.4|
+|02/05/25|[Leyniþjónusta](https://open.kattis.com/problems/leynithjonusta)|leynithjonusta|1.3|
+|02/05/25|[Lubbi Lærir](https://open.kattis.com/problems/lubbilaerir)|lubbilaerir|1.1|
+|02/05/25|[Monopoly](https://open.kattis.com/problems/monopol)|monopol|1.3|
+|02/05/25|[N-sum](https://open.kattis.com/problems/nsum)|nsum|1.2|
+|02/05/25|[Odd Echo](https://open.kattis.com/problems/oddecho)|oddecho|1.2|
+|02/05/25|[Öfugsnúið](https://open.kattis.com/problems/ofugsnuid)|ofugsnuid|1.3|
+|02/05/25|[Programmeringsolympiaden's Budget](https://open.kattis.com/problems/pobudget)|pobudget|1.3|
+|02/05/25|[Poker Hand](https://open.kattis.com/problems/pokerhand)|pokerhand|1.4|
+|02/05/25|[Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)|qaly|1.2|
+|02/05/25|[Quadrant Selection](https://open.kattis.com/problems/quadrant)|quadrant|1.2|
+|02/05/25|[R2](https://open.kattis.com/problems/r2)|r2|1.3|
+|02/05/25|[Rating Problems](https://open.kattis.com/problems/ratingproblems)|ratingproblems|1.3|
+|02/05/25|[Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary)|reversebinary|1.4|
+|02/05/25|[Shandy](https://open.kattis.com/problems/shandy)|shandy|1.3|
+|02/05/25|[A Shortcut to What?](https://open.kattis.com/problems/shortcuttowhat)|shortcuttowhat|1.1|
+|02/05/25|[Sibice](https://open.kattis.com/problems/sibice)|sibice|1.4|
+|02/05/25|[Simon Says](https://open.kattis.com/problems/simonsays)|simonsays|1.4|
+|02/05/25|[Skák](https://open.kattis.com/problems/skak)|skak|1.2|
+|02/05/25|[Concatenate](https://open.kattis.com/problems/skeytasaman)|skeytasaman|1.2|
+|02/05/25|[Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers)|sorttwonumbers|1.3|
+|02/05/25|[Spavanac](https://open.kattis.com/problems/spavanac)|spavanac|1.4|
+|02/05/25|[Spritt](https://open.kattis.com/problems/spritt)|spritt|1.3|
+|02/05/25|[Staying Frosty](https://open.kattis.com/problems/stayingfrosty)|stayingfrosty|1.4|
+|02/05/25|[Stopwatch](https://open.kattis.com/problems/stopwatch)|stopwatch|1.4|
+|02/05/25|[Stórafmæli](https://open.kattis.com/problems/storafmaeli)|storafmaeli|1.1|
+|02/05/25|[Takk fyrir mig](https://open.kattis.com/problems/takkfyrirmig)|takkfyrirmig|1.1|
+|02/05/25|[Triangle Area](https://open.kattis.com/problems/triarea)|triarea|1.2|
+|02/05/25|[Trik](https://open.kattis.com/problems/trik)|trik|1.4|
+|02/05/25|[Two-sum](https://open.kattis.com/problems/twosum)|twosum|1.2|
+|02/05/25|[Umferð](https://open.kattis.com/problems/umferd)|umferd|1.3|
+|02/05/25|[Veður - Lokaðar heiðar](https://open.kattis.com/problems/vedurheidar)|vedurheidar|1.3|
+|02/05/25|[Enjoy Your Repast!](https://open.kattis.com/problems/verditheradgodu)|verditheradgodu|1.1|
+|02/05/25|[Which is Greater?](https://open.kattis.com/problems/whichisgreater)|whichisgreater|1.2|
+|02/05/25|[Which Number Kind Is It?](https://open.kattis.com/problems/whichnumberkindisit2)|whichnumberkindisit2|1.4|
+|02/05/25|[Zamka](https://open.kattis.com/problems/zamka)|zamka|1.4|
+|02/05/25|[Stand on Zanzibar](https://open.kattis.com/problems/zanzibar)|zanzibar|1.4|
+|||| **1088.8** |
 
