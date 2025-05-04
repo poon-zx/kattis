@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 1109.5
+## Current Rating: 1127.2
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -560,4 +560,12 @@ Date|Problem Name|Problem ID|Difficulty|
 |03/05/25|[Square Pegs](https://open.kattis.com/problems/squarepeg)|squarepeg|1.6|
 |03/05/25|[Wizard of Odds](https://open.kattis.com/problems/wizardofodds)|wizardofodds|2.6|
 |||| **1109.5** |
+|04/05/25|[Bungee Builder](https://open.kattis.com/problems/bungeebuilder)|bungeebuilder|3.3|
+|04/05/25|[Circuit Math](https://open.kattis.com/problems/circuitmath)|circuitmath|2.0|
+|04/05/25|[Delimiter Soup](https://open.kattis.com/problems/delimitersoup)|delimitersoup|1.8|
+|04/05/25|[Juggling Patterns](https://open.kattis.com/problems/jugglingpatterns)|jugglingpatterns|5.2|
+|04/05/25|[Knigs of the Forest](https://open.kattis.com/problems/knigsoftheforest)|knigsoftheforest|4.3|
+|04/05/25|[Sim](https://open.kattis.com/problems/sim)|sim|3.4|
+|||| **1127.2** |
+
 
