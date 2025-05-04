@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 1088.8
+## Current Rating: 1109.5
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -551,4 +551,13 @@ Date|Problem Name|Problem ID|Difficulty|
 |02/05/25|[Zamka](https://open.kattis.com/problems/zamka)|zamka|1.4|
 |02/05/25|[Stand on Zanzibar](https://open.kattis.com/problems/zanzibar)|zanzibar|1.4|
 |||| **1088.8** |
+|03/05/25|[Deathstar](https://open.kattis.com/problems/deathstar)|deathstar|1.8|
+|03/05/25|[Frosh Week](https://open.kattis.com/problems/froshweek2)|froshweek2|2.1|
+|03/05/25|[ICPC Team Selection](https://open.kattis.com/problems/icpcteamselection)|icpcteamselection|2.8|
+|03/05/25|[Working at the Restaurant](https://open.kattis.com/problems/restaurant)|restaurant|3.8|
+|03/05/25|[Simple Addition](https://open.kattis.com/problems/simpleaddition)|simpleaddition|3.3|
+|03/05/25|[Snapper Chain (Hard)](https://open.kattis.com/problems/snapperhard)|snapperhard|2.2|
+|03/05/25|[Square Pegs](https://open.kattis.com/problems/squarepeg)|squarepeg|1.6|
+|03/05/25|[Wizard of Odds](https://open.kattis.com/problems/wizardofodds)|wizardofodds|2.6|
+|||| **1109.5** |
 
