@@ -44,20 +44,20 @@ constexpr array<array<int, 2>, 4> directions{{
 // vector<vector<int>> v(3, vector<int>(4,0) 3x4 filled with 0s
 
 void solve() {
-  int n,m;
-  cin>>n>>m;
-  vector<int> v(n),w(m);
-  for (int i=0;i<n;i++) cin>>v[i];
-  for (int i=0;i<m;i++) cin>>w[i];
-  sort(v.begin(),v.end());
-  sort(w.begin(),w.end());
-  int res=0;
-  int pointer=0;
-  for (int i=0;i<m;i++) {
-    if(pointer==n) break;
-    if(v[pointer]<=w[i]) {res++;pointer++;}
+  int n;
+  cin>>n;
+  vector<int> res(n);
+  for (int i=1;i<=n;i++) {
+    int c=0;
+    for (int j=1;j<=n;j++) {
+      int a;
+      cin>>a;
+      if(i==j) continue;
+      c|=a;
+    }
+    res[i-1]=c;
   }
-  cout<<res;
+  for(auto &num:res) cout<<num<<" ";
 }
 
 int main() {

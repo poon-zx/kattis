@@ -44,18 +44,24 @@ constexpr array<array<int, 2>, 4> directions{{
 // vector<vector<int>> v(3, vector<int>(4,0) 3x4 filled with 0s
 
 void solve() {
-  int n,m;
-  cin>>n>>m;
-  vector<int> v(n),w(m);
-  for (int i=0;i<n;i++) cin>>v[i];
-  for (int i=0;i<m;i++) cin>>w[i];
-  sort(v.begin(),v.end());
-  sort(w.begin(),w.end());
-  int res=0;
+  int n,m,k;
+  cin>>n>>m>>k;
+  vector<int> plot(n);
+  for(int i=0;i<n;i++) {int a;cin>>a;plot[i]=a*a*4;}
+  vector<int> house(m+k);
+  for(int i=0;i<m;i++) {int a;cin>>a;house[i]=a*a*4;}
+  for(int i=m;i<m+k;i++) {
+    int a;
+    cin>>a;
+    house[i]=2*a*a;
+  }
+  sort(plot.begin(),plot.end());
+  sort(house.begin(),house.end());
   int pointer=0;
-  for (int i=0;i<m;i++) {
-    if(pointer==n) break;
-    if(v[pointer]<=w[i]) {res++;pointer++;}
+  int res=0;
+  for (int i=0;i<n;i++) {
+    if(pointer==m+k) break;
+    if(plot[i]>house[pointer]) {res++;pointer++;}
   }
   cout<<res;
 }

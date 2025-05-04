@@ -44,20 +44,25 @@ constexpr array<array<int, 2>, 4> directions{{
 // vector<vector<int>> v(3, vector<int>(4,0) 3x4 filled with 0s
 
 void solve() {
-  int n,m;
-  cin>>n>>m;
-  vector<int> v(n),w(m);
-  for (int i=0;i<n;i++) cin>>v[i];
-  for (int i=0;i<m;i++) cin>>w[i];
-  sort(v.begin(),v.end());
-  sort(w.begin(),w.end());
-  int res=0;
-  int pointer=0;
-  for (int i=0;i<m;i++) {
-    if(pointer==n) break;
-    if(v[pointer]<=w[i]) {res++;pointer++;}
+  int n;
+  cin>>n;
+  cin.ignore();
+  string str;
+  getline(cin,str);
+  stack<char> s;
+  for(int i=0;i<n;i++) {
+    char c=str[i];
+    if(c==' ') continue;
+    if(c=='('||c=='['||c=='{') s.push(c);
+    else {
+      if(s.empty()) {cout<<c<<" "<<i;return;}
+      if(c==')'&&s.top()!='(') {cout<<c<<" "<<i;return;}
+      if(c==']'&&s.top()!='[') {cout<<c<<" "<<i;return;}
+      if(c=='}'&&s.top()!='{') {cout<<c<<" "<<i;return;}
+      s.pop();
+    }
   }
-  cout<<res;
+  cout<<"ok so far";
 }
 
 int main() {

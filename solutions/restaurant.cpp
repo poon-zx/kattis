@@ -44,20 +44,40 @@ constexpr array<array<int, 2>, 4> directions{{
 // vector<vector<int>> v(3, vector<int>(4,0) 3x4 filled with 0s
 
 void solve() {
-  int n,m;
-  cin>>n>>m;
-  vector<int> v(n),w(m);
-  for (int i=0;i<n;i++) cin>>v[i];
-  for (int i=0;i<m;i++) cin>>w[i];
-  sort(v.begin(),v.end());
-  sort(w.begin(),w.end());
-  int res=0;
-  int pointer=0;
-  for (int i=0;i<m;i++) {
-    if(pointer==n) break;
-    if(v[pointer]<=w[i]) {res++;pointer++;}
+  int n;
+  while(cin>>n&&n!=0) {
+    int first=0;
+    int second=0;
+    for (int i=0;i<n;i++) {
+      string s;
+      int a;
+      cin>>s>>a;
+      if(s=="DROP") {
+        second+=a;
+        cout<<"DROP 2 "<<a<<"\n";
+      } else {
+        if(first==0) {
+          first=second;
+          cout<<"MOVE 2->1 "<<second<<"\n";
+          second=0;
+          first-=a;
+          cout<<"TAKE 1 "<<a<<"\n";
+        } else if(a>first) {
+          cout<<"TAKE 1 "<<first<<"\n";
+          int diff=a-first;
+          first=second;
+          cout<<"MOVE 2->1 "<<second<<"\n";
+          second=0;
+          first-=diff;
+          cout<<"TAKE 1 "<<diff<<"\n";
+        } else {
+          first-=a;
+          cout<<"TAKE 1 "<<a<<"\n";
+        }
+      }
+    }
+    cout<<"\n";
   }
-  cout<<res;
 }
 
 int main() {
