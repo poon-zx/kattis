@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 1127.2
+## Current Rating: 1145.4
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -567,5 +567,17 @@ Date|Problem Name|Problem ID|Difficulty|
 |04/05/25|[Knigs of the Forest](https://open.kattis.com/problems/knigsoftheforest)|knigsoftheforest|4.3|
 |04/05/25|[Sim](https://open.kattis.com/problems/sim)|sim|3.4|
 |||| **1127.2** |
+|05/05/25|[Alphabet Spam](https://open.kattis.com/problems/alphabetspam)|alphabetspam|1.6|
+|05/05/25|[CD](https://open.kattis.com/problems/cd)|cd|3.8|
+|05/05/25|[Ekki dauði opna inni](https://open.kattis.com/problems/ekkidaudi)|ekkidaudi|1.5|
+|05/05/25|[Free Food](https://open.kattis.com/problems/freefood)|freefood|1.5|
+|05/05/25|[Diggy Hole](https://open.kattis.com/problems/grafaholur)|grafaholur|1.5|
+|05/05/25|[Kínahvísl](https://open.kattis.com/problems/kinahvisl)|kinahvisl|1.5|
+|05/05/25|[Lægð yfir landinu](https://open.kattis.com/problems/laegdyfirlandinu)|laegdyfirlandinu|1.5|
+|05/05/25|[Mine Sweeper](https://open.kattis.com/problems/minesweeper)|minesweeper|1.5|
+|05/05/25|[File Extension](https://open.kattis.com/problems/nafnauki)|nafnauki|1.5|
+|05/05/25|[Skammstöfun](https://open.kattis.com/problems/skammstofun)|skammstofun|1.5|
+|05/05/25|[Stock Prices](https://open.kattis.com/problems/stockprices)|stockprices|2.2|
+|||| **1145.4** |
 
 
