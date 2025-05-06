@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 1145.4
+## Current Rating: 1160.2
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -579,5 +579,10 @@ Date|Problem Name|Problem ID|Difficulty|
 |05/05/25|[Skammstöfun](https://open.kattis.com/problems/skammstofun)|skammstofun|1.5|
 |05/05/25|[Stock Prices](https://open.kattis.com/problems/stockprices)|stockprices|2.2|
 |||| **1145.4** |
-
+|06/05/25|[Competitive Arcade Basketball](https://open.kattis.com/problems/competitivearcadebasketball)|competitivearcadebasketball|2.1|
+|06/05/25|[Conversation Log](https://open.kattis.com/problems/conversationlog)|conversationlog|2.9|
+|06/05/25|[Esej](https://open.kattis.com/problems/esej)|esej|3.6|
+|06/05/25|[Greeting Card](https://open.kattis.com/problems/greetingcard)|greetingcard|4.2|
+|06/05/25|[Shiritori](https://open.kattis.com/problems/shiritori)|shiritori|2.4|
+|||| **1160.2** |
 
