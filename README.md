@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 1160.2
+## Current Rating: 1173.8
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -585,4 +585,11 @@ Date|Problem Name|Problem ID|Difficulty|
 |06/05/25|[Greeting Card](https://open.kattis.com/problems/greetingcard)|greetingcard|4.2|
 |06/05/25|[Shiritori](https://open.kattis.com/problems/shiritori)|shiritori|2.4|
 |||| **1160.2** |
+|07/05/25|[Build Dependencies](https://open.kattis.com/problems/builddeps)|builddeps|3.4|
+|07/05/25|[Hoppers](https://open.kattis.com/problems/hoppers)|hoppers|3.8|
+|07/05/25|[Karte](https://open.kattis.com/problems/karte)|karte|1.5|
+|07/05/25|[Ladder](https://open.kattis.com/problems/ladder)|ladder|1.5|
+|07/05/25|[Modulo](https://open.kattis.com/problems/modulo)|modulo|1.5|
+|07/05/25|[Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits)|sumsquareddigits|1.4|
+|||| **1173.8** |
 
