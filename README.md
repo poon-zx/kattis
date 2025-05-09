@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 1173.8
+## Current Rating: 1203.9
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -592,4 +592,16 @@ Date|Problem Name|Problem ID|Difficulty|
 |07/05/25|[Modulo](https://open.kattis.com/problems/modulo)|modulo|1.5|
 |07/05/25|[Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits)|sumsquareddigits|1.4|
 |||| **1173.8** |
+|08/05/25|[Birthday Party](https://open.kattis.com/problems/birthday)|birthday|2.5|
+|08/05/25|[Association for Control Over Minds](https://open.kattis.com/problems/control)|control|4.3|
+|08/05/25|[Death Knight Hero](https://open.kattis.com/problems/deathknight)|deathknight|1.5|
+|08/05/25|[Ladice](https://open.kattis.com/problems/ladice)|ladice|3.8|
+|08/05/25|[Pascal](https://open.kattis.com/problems/pascal)|pascal|3.9|
+|08/05/25|[Prime Sieve](https://open.kattis.com/problems/primesieve)|primesieve|4.2|
+|08/05/25|[Reseto](https://open.kattis.com/problems/reseto)|reseto|4.3|
+|||| **1195.6** |
+|09/05/25|[Almost Perfect](https://open.kattis.com/problems/almostperfect)|almostperfect|2.7|
+|09/05/25|[Divisible Subsequences](https://open.kattis.com/problems/divisible)|divisible|3.0|
+|09/05/25|[Primal Representation](https://open.kattis.com/problems/primalrepresentation)|primalrepresentation|3.9|
+|||| **1203.9** |
 
