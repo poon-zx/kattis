@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 1195.6
+## Current Rating: 1203.9
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -600,4 +600,8 @@ Date|Problem Name|Problem ID|Difficulty|
 |08/05/25|[Prime Sieve](https://open.kattis.com/problems/primesieve)|primesieve|4.2|
 |08/05/25|[Reseto](https://open.kattis.com/problems/reseto)|reseto|4.3|
 |||| **1195.6** |
+|09/05/25|[Almost Perfect](https://open.kattis.com/problems/almostperfect)|almostperfect|2.7|
+|09/05/25|[Divisible Subsequences](https://open.kattis.com/problems/divisible)|divisible|3.0|
+|09/05/25|[Primal Representation](https://open.kattis.com/problems/primalrepresentation)|primalrepresentation|3.9|
+|||| **1203.9** |
 
