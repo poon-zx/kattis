@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 1203.9
+## Current Rating: 1234.7
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -604,4 +604,13 @@ Date|Problem Name|Problem ID|Difficulty|
 |09/05/25|[Divisible Subsequences](https://open.kattis.com/problems/divisible)|divisible|3.0|
 |09/05/25|[Primal Representation](https://open.kattis.com/problems/primalrepresentation)|primalrepresentation|3.9|
 |||| **1203.9** |
+|10/05/25|[Adding Words](https://open.kattis.com/problems/addingwords)|addingwords|4.2|
+|10/05/25|[Binary search tree](https://open.kattis.com/problems/bst)|bst|5.8|
+|10/05/25|[Candy Division](https://open.kattis.com/problems/candydivision)|candydivision|3.3|
+|10/05/25|[Compound Words](https://open.kattis.com/problems/compoundwords)|compoundwords|1.8|
+|10/05/25|[Divisors](https://open.kattis.com/problems/divisors)|divisors|5.7|
+|10/05/25|[Flower Garden](https://open.kattis.com/problems/flowergarden)|flowergarden|4.0|
+|10/05/25|[Goldbach's Conjecture](https://open.kattis.com/problems/goldbach2)|goldbach2|2.0|
+|10/05/25|[Pseudoprime numbers](https://open.kattis.com/problems/pseudoprime)|pseudoprime|3.5|
+|||| **1234.7** |
 
