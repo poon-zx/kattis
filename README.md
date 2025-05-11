@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 1234.7
+## Current Rating: 1255.5
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -613,4 +613,9 @@ Date|Problem Name|Problem ID|Difficulty|
 |10/05/25|[Goldbach's Conjecture](https://open.kattis.com/problems/goldbach2)|goldbach2|2.0|
 |10/05/25|[Pseudoprime numbers](https://open.kattis.com/problems/pseudoprime)|pseudoprime|3.5|
 |||| **1234.7** |
+|11/05/25|[Administrative Difficulties](https://open.kattis.com/problems/administrativeproblems)|administrativeproblems|6.8|
+|11/05/25|[Baby Names](https://open.kattis.com/problems/babynames)|babynames|5.6|
+|11/05/25|[Doctor Kattis](https://open.kattis.com/problems/doctorkattis)|doctorkattis|4.8|
+|11/05/25|[Srednji](https://open.kattis.com/problems/srednji)|srednji|3.2|
+|||| **1255.5** |
 
