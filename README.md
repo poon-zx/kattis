@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 1255.5
+## Current Rating: 1272.7
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -618,4 +618,9 @@ Date|Problem Name|Problem ID|Difficulty|
 |11/05/25|[Doctor Kattis](https://open.kattis.com/problems/doctorkattis)|doctorkattis|4.8|
 |11/05/25|[Srednji](https://open.kattis.com/problems/srednji)|srednji|3.2|
 |||| **1255.5** |
+|12/05/25|[Cookie Selection](https://open.kattis.com/problems/cookieselection)|cookieselection|4.1|
+|12/05/25|[Financial Planning](https://open.kattis.com/problems/financialplanning)|financialplanning|4.3|
+|12/05/25|[Galactic Collegiate Programming Contest](https://open.kattis.com/problems/gcpc)|gcpc|5.1|
+|12/05/25|[Growling Gears](https://open.kattis.com/problems/growlinggears)|growlinggears|1.8|
+|||| **1272.7** |
 
