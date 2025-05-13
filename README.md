@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 1272.7
+## Current Rating: 1283.4
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -623,4 +623,8 @@ Date|Problem Name|Problem ID|Difficulty|
 |12/05/25|[Galactic Collegiate Programming Contest](https://open.kattis.com/problems/gcpc)|gcpc|5.1|
 |12/05/25|[Growling Gears](https://open.kattis.com/problems/growlinggears)|growlinggears|1.8|
 |||| **1272.7** |
+|13/05/25|[Brexit](https://open.kattis.com/problems/brexit)|brexit|2.8|
+|13/05/25|[Cantina of Babel](https://open.kattis.com/problems/cantinaofbabel)|cantinaofbabel|3.0|
+|13/05/25|[Conservation](https://open.kattis.com/problems/conservation)|conservation|4.8|
+|||| **1283.4** |
 
