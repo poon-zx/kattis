@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 1283.4
+## Current Rating: 1300.8
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -627,4 +627,11 @@ Date|Problem Name|Problem ID|Difficulty|
 |13/05/25|[Cantina of Babel](https://open.kattis.com/problems/cantinaofbabel)|cantinaofbabel|3.0|
 |13/05/25|[Conservation](https://open.kattis.com/problems/conservation)|conservation|4.8|
 |||| **1283.4** |
+|13/05/25|[Button Bashing](https://open.kattis.com/problems/buttonbashing)|buttonbashing|3.3|
+|13/05/25|[Gregory the Grasshopper](https://open.kattis.com/problems/grasshopper)|grasshopper|3.1|
+|13/05/25|[Grid](https://open.kattis.com/problems/grid)|grid|2.3|
+|13/05/25|[Horror List](https://open.kattis.com/problems/horror)|horror|2.5|
+|13/05/25|[Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1)|shortestpath1|2.8|
+|13/05/25|[Single source shortest path, time table](https://open.kattis.com/problems/shortestpath2)|shortestpath2|2.8|
+|||| **1300.8** |
 
