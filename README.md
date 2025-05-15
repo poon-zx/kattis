@@ -627,21 +627,21 @@ Date|Problem Name|Problem ID|Difficulty|
 |13/05/25|[Cantina of Babel](https://open.kattis.com/problems/cantinaofbabel)|cantinaofbabel|3.0|
 |13/05/25|[Conservation](https://open.kattis.com/problems/conservation)|conservation|4.8|
 |||| **1283.4** |
-|13/05/25|[Button Bashing](https://open.kattis.com/problems/buttonbashing)|buttonbashing|3.3|
-|13/05/25|[Gregory the Grasshopper](https://open.kattis.com/problems/grasshopper)|grasshopper|3.1|
-|13/05/25|[Grid](https://open.kattis.com/problems/grid)|grid|2.3|
-|13/05/25|[Horror List](https://open.kattis.com/problems/horror)|horror|2.5|
-|13/05/25|[Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1)|shortestpath1|2.8|
-|13/05/25|[Single source shortest path, time table](https://open.kattis.com/problems/shortestpath2)|shortestpath2|2.8|
+|14/05/25|[Button Bashing](https://open.kattis.com/problems/buttonbashing)|buttonbashing|3.3|
+|14/05/25|[Gregory the Grasshopper](https://open.kattis.com/problems/grasshopper)|grasshopper|3.1|
+|14/05/25|[Grid](https://open.kattis.com/problems/grid)|grid|2.3|
+|14/05/25|[Horror List](https://open.kattis.com/problems/horror)|horror|2.5|
+|14/05/25|[Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1)|shortestpath1|2.8|
+|14/05/25|[Single source shortest path, time table](https://open.kattis.com/problems/shortestpath2)|shortestpath2|2.8|
 |||| **1300.8** |
-|14/05/25|[Digit Product](https://open.kattis.com/problems/sifferprodukt)|sifferprodukt|1.5|
-|14/05/25|[Heart Rate](hhttps://open.kattis.com/problems/heartrate)|heartrate|1.5|
-|14/05/25|[Hier's Dilemma](https://open.kattis.com/problems/heirsdilemma)|heirsdilemma|1.5|
-|14/05/25|[Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd)|helpaphd|1.5|
-|14/05/25|[Piece of Cake!](https://open.kattis.com/problems/pieceofcake2)|pieceofcake2|1.5|
-|14/05/25|[Pokechat](https://open.kattis.com/problems/pokechat)|pokechat|1.5|
-|14/05/25|[Provinces and Gold](https://open.kattis.com/problems/provincesandgold)|provincesandgold|1.5|
-|14/05/25|[Railroad](https://open.kattis.com/problems/railroad2)|railroad2|1.5|
-|14/05/25|[Transit Woes](https://open.kattis.com/problems/transitwoes)|transitwoes|1.5|
+|15/05/25|[Digit Product](https://open.kattis.com/problems/sifferprodukt)|sifferprodukt|1.5|
+|15/05/25|[Heart Rate](https://open.kattis.com/problems/heartrate)|heartrate|1.5|
+|15/05/25|[Hier's Dilemma](https://open.kattis.com/problems/heirsdilemma)|heirsdilemma|1.5|
+|15/05/25|[Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd)|helpaphd|1.5|
+|15/05/25|[Piece of Cake!](https://open.kattis.com/problems/pieceofcake2)|pieceofcake2|1.5|
+|15/05/25|[Pokechat](https://open.kattis.com/problems/pokechat)|pokechat|1.5|
+|15/05/25|[Provinces and Gold](https://open.kattis.com/problems/provincesandgold)|provincesandgold|1.5|
+|15/05/25|[Railroad](https://open.kattis.com/problems/railroad2)|railroad2|1.5|
+|15/05/25|[Transit Woes](https://open.kattis.com/problems/transitwoes)|transitwoes|1.5|
 |||| **1313.9** |
 
