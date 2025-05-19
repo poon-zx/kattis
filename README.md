@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 1313.9
+## Current Rating: 1328.5
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -627,21 +627,32 @@ Date|Problem Name|Problem ID|Difficulty|
 |13/05/25|[Cantina of Babel](https://open.kattis.com/problems/cantinaofbabel)|cantinaofbabel|3.0|
 |13/05/25|[Conservation](https://open.kattis.com/problems/conservation)|conservation|4.8|
 |||| **1283.4** |
-|13/05/25|[Button Bashing](https://open.kattis.com/problems/buttonbashing)|buttonbashing|3.3|
-|13/05/25|[Gregory the Grasshopper](https://open.kattis.com/problems/grasshopper)|grasshopper|3.1|
-|13/05/25|[Grid](https://open.kattis.com/problems/grid)|grid|2.3|
-|13/05/25|[Horror List](https://open.kattis.com/problems/horror)|horror|2.5|
-|13/05/25|[Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1)|shortestpath1|2.8|
-|13/05/25|[Single source shortest path, time table](https://open.kattis.com/problems/shortestpath2)|shortestpath2|2.8|
+|14/05/25|[Button Bashing](https://open.kattis.com/problems/buttonbashing)|buttonbashing|3.3|
+|14/05/25|[Gregory the Grasshopper](https://open.kattis.com/problems/grasshopper)|grasshopper|3.1|
+|14/05/25|[Grid](https://open.kattis.com/problems/grid)|grid|2.3|
+|14/05/25|[Horror List](https://open.kattis.com/problems/horror)|horror|2.5|
+|14/05/25|[Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1)|shortestpath1|2.8|
+|14/05/25|[Single source shortest path, time table](https://open.kattis.com/problems/shortestpath2)|shortestpath2|2.8|
 |||| **1300.8** |
-|14/05/25|[Digit Product](https://open.kattis.com/problems/sifferprodukt)|sifferprodukt|1.5|
-|14/05/25|[Heart Rate](hhttps://open.kattis.com/problems/heartrate)|heartrate|1.5|
-|14/05/25|[Hier's Dilemma](https://open.kattis.com/problems/heirsdilemma)|heirsdilemma|1.5|
-|14/05/25|[Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd)|helpaphd|1.5|
-|14/05/25|[Piece of Cake!](https://open.kattis.com/problems/pieceofcake2)|pieceofcake2|1.5|
-|14/05/25|[Pokechat](https://open.kattis.com/problems/pokechat)|pokechat|1.5|
-|14/05/25|[Provinces and Gold](https://open.kattis.com/problems/provincesandgold)|provincesandgold|1.5|
-|14/05/25|[Railroad](https://open.kattis.com/problems/railroad2)|railroad2|1.5|
-|14/05/25|[Transit Woes](https://open.kattis.com/problems/transitwoes)|transitwoes|1.5|
+|15/05/25|[Digit Product](https://open.kattis.com/problems/sifferprodukt)|sifferprodukt|1.5|
+|15/05/25|[Heart Rate](https://open.kattis.com/problems/heartrate)|heartrate|1.5|
+|15/05/25|[Hier's Dilemma](https://open.kattis.com/problems/heirsdilemma)|heirsdilemma|1.5|
+|15/05/25|[Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd)|helpaphd|1.5|
+|15/05/25|[Piece of Cake!](https://open.kattis.com/problems/pieceofcake2)|pieceofcake2|1.5|
+|15/05/25|[Pokechat](https://open.kattis.com/problems/pokechat)|pokechat|1.5|
+|15/05/25|[Provinces and Gold](https://open.kattis.com/problems/provincesandgold)|provincesandgold|1.5|
+|15/05/25|[Railroad](https://open.kattis.com/problems/railroad2)|railroad2|1.5|
+|15/05/25|[Transit Woes](https://open.kattis.com/problems/transitwoes)|transitwoes|1.5|
 |||| **1313.9** |
+|19/05/25|[Bus Assignment](https://open.kattis.com/problems/busassignment)|busassignment|1.5|
+|19/05/25|[Candy Store](https://open.kattis.com/problems/candystore)|candystore|1.5|
+|19/05/25|[Chardonnay](https://open.kattis.com/problems/chardonnay)|chardonnay|1.5|
+|19/05/25|[Falling Snow](https://open.kattis.com/problems/fallingsnow2)|fallingsnow2|1.5|
+|19/05/25|[Generalized FizzBuzz](https://open.kattis.com/problems/generalizedfizzbuzz)|generalizedfizzbuzz|1.5|
+|19/05/25|[Getting Wood](https://open.kattis.com/problems/gettingwood)|gettingwood|1.5|
+|19/05/25|[Hvert Skal Mæta?](https://open.kattis.com/problems/hvertskalmaeta)|hvertskalmaeta|1.5|
+|19/05/25|[Intuitive Elements](https://open.kattis.com/problems/intuitiveelements)|intuitiveelements|1.5|
+|19/05/25|[Planina](https://open.kattis.com/problems/planina)|planina|1.5|
+|19/05/25|[Sauna](https://open.kattis.com/problems/sauna)|sauna|1.5|
+|||| **1328.5** |
 
