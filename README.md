@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 1313.9
+## Current Rating: 1328.5
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -644,4 +644,15 @@ Date|Problem Name|Problem ID|Difficulty|
 |15/05/25|[Railroad](https://open.kattis.com/problems/railroad2)|railroad2|1.5|
 |15/05/25|[Transit Woes](https://open.kattis.com/problems/transitwoes)|transitwoes|1.5|
 |||| **1313.9** |
+|19/05/25|[Bus Assignment](https://open.kattis.com/problems/busassignment)|busassignment|1.5|
+|19/05/25|[Candy Store](https://open.kattis.com/problems/candystore)|candystore|1.5|
+|19/05/25|[Chardonnay](https://open.kattis.com/problems/chardonnay)|chardonnay|1.5|
+|19/05/25|[Falling Snow](https://open.kattis.com/problems/fallingsnow2)|fallingsnow2|1.5|
+|19/05/25|[Generalized FizzBuzz](https://open.kattis.com/problems/generalizedfizzbuzz)|generalizedfizzbuzz|1.5|
+|19/05/25|[Getting Wood](https://open.kattis.com/problems/gettingwood)|gettingwood|1.5|
+|19/05/25|[Hvert Skal Mæta?](https://open.kattis.com/problems/hvertskalmaeta)|hvertskalmaeta|1.5|
+|19/05/25|[Intuitive Elements](https://open.kattis.com/problems/intuitiveelements)|intuitiveelements|1.5|
+|19/05/25|[Planina](https://open.kattis.com/problems/planina)|planina|1.5|
+|19/05/25|[Sauna](https://open.kattis.com/problems/sauna)|sauna|1.5|
+|||| **1328.5** |
 
