@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 1328.5
+## Current Rating: 1336.8
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -655,4 +655,7 @@ Date|Problem Name|Problem ID|Difficulty|
 |19/05/25|[Planina](https://open.kattis.com/problems/planina)|planina|1.5|
 |19/05/25|[Sauna](https://open.kattis.com/problems/sauna)|sauna|1.5|
 |||| **1328.5** |
-
+|20/05/25|[Cross Country](https://open.kattis.com/problems/crosscountry)|crosscountry|2.5|
+|20/05/25|[Flowery Trails](https://open.kattis.com/problems/flowerytrails)|flowerytrails|3.4|
+|20/05/25|[Single source shortest path, negative weights](https://open.kattis.com/problems/shortestpath3)|shortestpath3|3.5|
+|||| **1336.8** |
