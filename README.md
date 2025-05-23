@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 1336.8
+## Current Rating: 1345.1
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -659,3 +659,6 @@ Date|Problem Name|Problem ID|Difficulty|
 |20/05/25|[Flowery Trails](https://open.kattis.com/problems/flowerytrails)|flowerytrails|3.4|
 |20/05/25|[Single source shortest path, negative weights](https://open.kattis.com/problems/shortestpath3)|shortestpath3|3.5|
 |||| **1336.8** |
+|23/05/25|[All Pairs Shortest Path](https://open.kattis.com/problems/allpairspath)|allpairspath|4.2|
+|23/05/25|[Haunted Graveyard](https://open.kattis.com/problems/hauntedgraveyard)|hauntedgraveyard|6.0|
+|||| **1345.1** |
