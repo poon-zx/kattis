@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 1345.1
+## Current Rating: 1371.8
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -662,3 +662,13 @@ Date|Problem Name|Problem ID|Difficulty|
 |23/05/25|[All Pairs Shortest Path](https://open.kattis.com/problems/allpairspath)|allpairspath|4.2|
 |23/05/25|[Haunted Graveyard](https://open.kattis.com/problems/hauntedgraveyard)|hauntedgraveyard|6.0|
 |||| **1345.1** |
+|25/05/25|[Alloys](https://open.kattis.com/problems/alloys)|alloys|3.7|
+|25/05/25|[Paradox With Averages](https://open.kattis.com/problems/averageseasy)|averageseasy|2.7|
+|25/05/25|[Basic Remains](https://open.kattis.com/problems/basicremains)|basicremains|3.5|
+|25/05/25|[Bishops](https://open.kattis.com/problems/bishops)|bishops|2.4|
+|25/05/25|[Collatz Conjecture](https://open.kattis.com/problems/collatz)|collatz|4.1|
+|25/05/25|[Import Spaghetti](https://open.kattis.com/problems/importspaghetti)|importspaghetti|5.3|
+|25/05/25|[Limbo: Part 1](https://open.kattis.com/problems/limbo1)|limbo1|3.7|
+|25/05/25|[Paul Eigon](https://open.kattis.com/problems/pauleigon)|pauleigon|1.7|
+|25/05/25|[Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem)|sumkindofproblem|1.4|
+|||| **1371.8** |
