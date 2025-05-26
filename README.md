@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 1371.8
+## Current Rating: 1386.3
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -672,3 +672,14 @@ Date|Problem Name|Problem ID|Difficulty|
 |25/05/25|[Paul Eigon](https://open.kattis.com/problems/pauleigon)|pauleigon|1.7|
 |25/05/25|[Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem)|sumkindofproblem|1.4|
 |||| **1371.8** |
+|26/05/25|[Backspace](https://open.kattis.com/problems/backspace)|backspace|1.6|
+|26/05/25|[Bannorð](https://open.kattis.com/problems/bannord)|bannord|1.6|
+|26/05/25|[Blackthorn](https://open.kattis.com/problems/blackthorn)|blackthorn|1.5|
+|26/05/25|[Mætingarlisti](https://open.kattis.com/problems/maetingarlisti)|maetingarlisti|1.6|
+|26/05/25|[Mumble Rap](https://open.kattis.com/problems/mumblerap)|mumblerap|1.6|
+|26/05/25|[Search Wizard](https://open.kattis.com/problems/searchwizard)|searchwizard|1.5|
+|26/05/25|[Superyatzy](https://open.kattis.com/problems/superyatzy)|superyatzy|1.6|
+|26/05/25|[The Plank](https://open.kattis.com/problems/theplank)|theplank|1.6|
+|26/05/25|[Vefþjónatjón](https://open.kattis.com/problems/vefthjonatjon)|vefthjonatjon|1.6|
+|26/05/25|[Virus](https://open.kattis.com/problems/virus3)|virus3|1.6|
+|||| **1386.3** |
