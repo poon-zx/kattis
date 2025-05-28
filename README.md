@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 1386.3
+## Current Rating: 1392.6
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -683,3 +683,7 @@ Date|Problem Name|Problem ID|Difficulty|
 |26/05/25|[Vefþjónatjón](https://open.kattis.com/problems/vefthjonatjon)|vefthjonatjon|1.6|
 |26/05/25|[Virus](https://open.kattis.com/problems/virus3)|virus3|1.6|
 |||| **1386.3** |
+|28/05/25|[Candle Box](https://open.kattis.com/problems/candlebox)|candlebox|3.3|
+|28/05/25|[Cokalada](https://open.kattis.com/problems/cokolada)|cokolada|2.3|
+|28/05/25|[Permuted Arithmetic Sequence](https://open.kattis.com/problems/permutedarithmeticsequence)|permutedarithmeticsequence|1.9|
+|||| **1392.6** |
