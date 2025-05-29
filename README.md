@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 1392.6
+## Current Rating: 1402.9
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -687,3 +687,6 @@ Date|Problem Name|Problem ID|Difficulty|
 |28/05/25|[Cokalada](https://open.kattis.com/problems/cokolada)|cokolada|2.3|
 |28/05/25|[Permuted Arithmetic Sequence](https://open.kattis.com/problems/permutedarithmeticsequence)|permutedarithmeticsequence|1.9|
 |||| **1392.6** |
+|29/05/25|[2, 4, 6, Greaaat](https://open.kattis.com/problems/246greaaat)|246greaaat|8.4|
+|29/05/25|[The Backslash Problem](https://open.kattis.com/problems/thebackslashproblem)|thebackslashproblem|2.3|
+|||| **1402.9** |
