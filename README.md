@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 1402.9
+## Current Rating: 1413.3
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -690,3 +690,11 @@ Date|Problem Name|Problem ID|Difficulty|
 |29/05/25|[2, 4, 6, Greaaat](https://open.kattis.com/problems/246greaaat)|246greaaat|8.4|
 |29/05/25|[The Backslash Problem](https://open.kattis.com/problems/thebackslashproblem)|thebackslashproblem|2.3|
 |||| **1402.9** |
+|30/05/25|[Pigeon-holes](https://open.kattis.com/problems/dufuskuffur)|dufuskuffur|1.6|
+|30/05/25|[Encoded Message](https://open.kattis.com/problems/encodedmessage)|encodedmessage|1.6|
+|30/05/25|[Kemija](https://open.kattis.com/problems/kemija08)|kemija08|1.6|
+|30/05/25|[Kornislav](https://open.kattis.com/problems/kornislav)|kornislav|1.6|
+|30/05/25|[Mixed Fractions](https://open.kattis.com/problems/mixedfractions)|mixedfractions|1.6|
+|30/05/25|[Oddities](https://open.kattis.com/problems/oddities)|oddities|1.6|
+|30/05/25|[Speed Limit](https://open.kattis.com/problems/speedlimit)|speedlimit|1.6|
+|||| **1413.3** |
