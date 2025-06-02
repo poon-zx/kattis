@@ -45,10 +45,66 @@ constexpr array<array<int, 2>, 4> directions{{
 
 void solve() {
   int n,m;
+  cin>>n>>m;
   vector<ll> mansions(n);
   for(int i=0;i<n;i++) cin>>mansions[i];
-  vector<pair<int,int>> edges(m);
-  for(int i=0;i<m;i++) cin>>edges[i].first>>edges[i].second;
+  vector<vector<int>> adj(n);
+  for (int i=0;i<m;i++) {
+    int a,b;
+    cin>>a>>b;
+    a--;
+    b--;
+    adj[a].push_back(b);
+    adj[b].push_back(a);
+  }
+  vector<ll> fib={0,1,1};
+  while(true) {
+    auto nxt=fib[fib.size()-1]+fib[fib.size()-2];
+    if(nxt>1000000000000000000LL) break;
+    fib.push_back(nxt);
+  }
+  int F=fib.size()-1;
+  unordered_map<ll,vector<int>> fibIdx;
+  fibIdx.reserve(F*2);
+  for(int i=1;i<=F;i++) fibIdx[fib[i]].push_back(i);
+  vector<vector<int>> mapping(n);
+  vector<vector<int>> nodesAt(F+2);
+  for(int u=0;u<n;u++) {
+    auto it=fibIdx.find(mansions[u]);
+    if(it!=fibIdx.end()) {
+      mapping[u]=it->second;
+      for(int idx:mapping[u]) nodesAt[idx].push_back(u);
+    }
+  }
+  // dp[u][k] = longest fib-path ending at node u with fib-index = mapping[u][k]
+  vector<vector<int>> dp(n);
+  for(int u=0;u<n;u++) {
+    if(!mapping[u].empty()) dp[u].assign(mapping[u].size(),1);
+  }
+  int ans=0;
+  for(int u=0;u<n;u++) {
+    for(int v:dp[u]) ans=max(ans,v);
+  }
+  for(int i=1;i<=F;i++) {
+    for(int u:nodesAt[i]) {
+      auto &mu=mapping[u];
+      int pu=(mu.size() == 1 ? 0 : (mu[0] == i ? 0 : 1));
+      int cur=dp[u][pu];
+      for(int v:adj[u]) {
+        auto &mv=mapping[v];
+        for(int q=0;q<(int)mv.size();q++) {
+          if(mv[q]==i+1) {
+            int cand=cur+1;
+            if(dp[v][q]<cand) {
+              dp[v][q]=cand;
+              ans=max(ans,cand);
+            }
+          }
+        }
+      }
+    }
+  }
+  cout<<ans;
 }
 
 int main() {
