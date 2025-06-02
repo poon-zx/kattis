@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 1413.3
+## Current Rating: 1416.5
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -698,3 +698,5 @@ Date|Problem Name|Problem ID|Difficulty|
 |30/05/25|[Oddities](https://open.kattis.com/problems/oddities)|oddities|1.6|
 |30/05/25|[Speed Limit](https://open.kattis.com/problems/speedlimit)|speedlimit|1.6|
 |||| **1413.3** |
+|02/06/25|[Fibonacci Tour](https://open.kattis.com/problems/fibtour)|fibtour|5.5|
+|||| **1416.5** |
