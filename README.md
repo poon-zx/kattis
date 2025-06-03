@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Current Rating: 1416.5
+## Current Rating: 1422.9
 
 Date|Problem Name|Problem ID|Difficulty|
 |:---|:---|:---|:---|
@@ -700,3 +700,6 @@ Date|Problem Name|Problem ID|Difficulty|
 |||| **1413.3** |
 |02/06/25|[Fibonacci Tour](https://open.kattis.com/problems/fibtour)|fibtour|5.5|
 |||| **1416.5** |
+|03/06/25|[Robots on a Grid](https://open.kattis.com/problems/robotsonagrid)|robotsonagrid|4.7|
+|03/06/25|[Running Steps](https://open.kattis.com/problems/runningsteps)|runningsteps|2.8|
+|||| **1422.9** |
